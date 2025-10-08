@@ -1,0 +1,778 @@
+{"messages": [{"role": "user", "content": "「Atun 現在在撿我的拐杖。」"}, {"role": "assistant", "content": "atun ohoni medeken yaku a tatoko."}]}
+{"messages": [{"role": "user", "content": "「這裡有雨。」"}, {"role": "assistant", "content": "kaidini nahaza udan."}]}
+{"messages": [{"role": "user", "content": "「現在沒下雨。」"}, {"role": "assistant", "content": "ohoni ini mudan."}]}
+{"messages": [{"role": "user", "content": "「坐了。」"}, {"role": "assistant", "content": "mituku lia."}]}
+{"messages": [{"role": "user", "content": "「在這裡有椅子。」"}, {"role": "assistant", "content": "kaidini nahaza aitukuan."}]}
+{"messages": [{"role": "user", "content": "「咱們是台灣人。」"}, {"role": "assistant", "content": "ita ka tatawan a saw."}]}
+{"messages": [{"role": "user", "content": "「我吃番薯了。」"}, {"role": "assistant", "content": "yaku meken dadas lia."}]}
+{"messages": [{"role": "user", "content": "「請裝菜、裝飯！」"}, {"role": "assistant", "content": "zuzut’i saaken iu sumay na."}]}
+{"messages": [{"role": "user", "content": "「看完書了。」"}, {"role": "assistant", "content": "mikita babizu muuput lia."}]}
+{"messages": [{"role": "user", "content": "「我洗完衣服了。」"}, {"role": "assistant", "content": "yaku muuput a siisinaw siatu lia."}]}
+{"messages": [{"role": "user", "content": "「來吃飯！」"}, {"role": "assistant", "content": "alo meken sumay!"}]}
+{"messages": [{"role": "user", "content": "「來喝一點酒！」"}, {"role": "assistant", "content": "alo mudok taating a inusat!"}]}
+{"messages": [{"role": "user", "content": "「我沒洗腳。」"}, {"role": "assistant", "content": "yaku ini musinaw kaaw."}]}
+{"messages": [{"role": "user", "content": "「他自己弄破。」"}, {"role": "assistant", "content": "imisiw talima pakamuaping."}]}
+{"messages": [{"role": "user", "content": "「讓我的腳痛了。」"}, {"role": "assistant", "content": "pakaasikit liaki yaku a kaaw."}]}
+{"messages": [{"role": "user", "content": "「讓咱們的粿熟。」"}, {"role": "assistant", "content": "paka nita umu maziah."}]}
+{"messages": [{"role": "user", "content": "「讓你多子多孫有孫、小孩」"}, {"role": "assistant", "content": "paka isiw paluzuakzuak’i nahaza ali akhéhén."}]}
+{"messages": [{"role": "user", "content": "「給你較好。」"}, {"role": "assistant", "content": "paka isiw mahabay taating"}]}
+{"messages": [{"role": "user", "content": "「讓豬吃。」"}, {"role": "assistant", "content": "paka bauzak meken."}]}
+{"messages": [{"role": "user", "content": "「爸爸打小孩。」"}, {"role": "assistant", "content": "aba mututing akhéhén."}]}
+{"messages": [{"role": "user", "content": "「狗被我打了。」"}, {"role": "assistant", "content": "tuting’en naki liaki wazu."}]}
+{"messages": [{"role": "user", "content": "「這番薯是我的番薯。」"}, {"role": "assistant", "content": "imini a dadas ka yaku a dadas."}]}
+{"messages": [{"role": "user", "content": "「這在大湳拿來。」"}, {"role": "assistant", "content": "imini ka kaidi kalikus maa mupuza."}]}
+{"messages": [{"role": "user", "content": "「我們噶哈巫的過年是在十一月十五日。」"}, {"role": "assistant", "content": "azem haka kaidi xasep adang ilas iu xasep isit a daali haki yami kaxabu a azem."}]}
+{"messages": [{"role": "user", "content": "「請長一點！」"}, {"role": "assistant", "content": "pakahalupat’ina!"}]}
+{"messages": [{"role": "user", "content": "「使熟！」"}, {"role": "assistant", "content": "pakamaziah’i!"}]}
+{"messages": [{"role": "user", "content": "「休息一下下！」"}, {"role": "assistant", "content": "seket’i taating hann!"}]}
+{"messages": [{"role": "user", "content": "「你的錢藏起來！」"}, {"role": "assistant", "content": "isiw a pai suzuk’i!"}]}
+{"messages": [{"role": "user", "content": "「這是我的母親。」"}, {"role": "assistant", "content": "imini ka yaku a ina."}]}
+{"messages": [{"role": "user", "content": "「那是我的父親。」"}, {"role": "assistant", "content": "imisiw ka yaku a aba."}]}
+{"messages": [{"role": "user", "content": "「你的錢要給誰？」"}, {"role": "assistant", "content": "nisiw a pai haaput mubaxa ima?"}]}
+{"messages": [{"role": "user", "content": "「你在喝什麼？」"}, {"role": "assistant", "content": "isiw ka mudok axay?"}]}
+{"messages": [{"role": "user", "content": "「他在水溝洗衣服。」"}, {"role": "assistant", "content": "imisiw ka kaidi taantaw siisinaw siatu."}]}
+{"messages": [{"role": "user", "content": "「他在家裡吃飯了。」"}, {"role": "assistant", "content": "imisiw ka kaidi humak meken sumay lia."}]}
+{"messages": [{"role": "user", "content": "「我們的父親、母親、曾祖父母在這裡居住。」"}, {"role": "assistant", "content": "yami a aba, ina, apuapu kaidini malaleng."}]}
+{"messages": [{"role": "user", "content": "「我在這裡坐，他們在那裡玩。」"}, {"role": "assistant", "content": "yaku ka kaidini mituku, imu ka kaidisiw maahadas."}]}
+{"messages": [{"role": "user", "content": "「我自己在家而已。」"}, {"role": "assistant", "content": "yaku talima kaidi humak eezaw."}]}
+{"messages": [{"role": "user", "content": "「在路上很多車，很不好走。」"}, {"role": "assistant", "content": "dahu a paipai kaidi daan, hazian a saanu muzakay."}]}
+{"messages": [{"role": "user", "content": "「這狗被他打。」"}, {"role": "assistant", "content": "imini a wazu ka saanu imisiw mututing."}]}
+{"messages": [{"role": "user", "content": "「酒讓人醉。」"}, {"role": "assistant", "content": "inusat saanu saw mabusuk."}]}
+{"messages": [{"role": "user", "content": "「我拿錢給你。」"}, {"role": "assistant", "content": "yaku maa pai saanu isiw."}]}
+{"messages": [{"role": "user", "content": "「我用拐杖打狗。」"}, {"role": "assistant", "content": "yaku saanu tatoko mututing wazu."}]}
+{"messages": [{"role": "user", "content": "「讓你多子多孫有孫、小孩！」"}, {"role": "assistant", "content": "paka isiw paluzuakzuak’i nahaza ali akhéhén."}]}
+{"messages": [{"role": "user", "content": "「我跟你在這裡曬太陽。」"}, {"role": "assistant", "content": "yaku maki isiw kaidini palizak."}]}
+{"messages": [{"role": "user", "content": "「我和哥哥去山上。」"}, {"role": "assistant", "content": "yaku maki mama mukusa binayu."}]}
+{"messages": [{"role": "user", "content": "「我和哥哥去山上。」"}, {"role": "assistant", "content": "yaku iu mama mukusa binayu."}]}
+{"messages": [{"role": "user", "content": "「我有哥哥和姊姊。」"}, {"role": "assistant", "content": "yaku nahaza mama iu iah."}]}
+{"messages": [{"role": "user", "content": "「走路和流汗就頭痛了。」"}, {"role": "assistant", "content": "muzakay iu maxidaxang haka asikit a punu lia."}]}
+{"messages": [{"role": "user", "content": "「來跟我們吃！」"}, {"role": "assistant", "content": "alo maki yami meken!"}]}
+{"messages": [{"role": "user", "content": "「不要跟你講話。」"}, {"role": "assistant", "content": "nang a maki isiw mukawas."}]}
+{"messages": [{"role": "user", "content": "「這話很久沒說。」"}, {"role": "assistant", "content": "imini a ahan ka mades ini mukawat."}]}
+{"messages": [{"role": "user", "content": "「那個女孩，褲子破掉了。」"}, {"role": "assistant", "content": "imisiw a akhéhén mamais, ukut muaping lia."}]}
+{"messages": [{"role": "user", "content": "「在這裡的椅子，被小孩拿走了。」"}, {"role": "assistant", "content": "kaidini a aitukuan, aa’en akhéhén lia."}]}
+{"messages": [{"role": "user", "content": "「在這裡有一朵花。」"}, {"role": "assistant", "content": "kaidini nahaza adade a lubahing a tulala."}]}
+{"messages": [{"role": "user", "content": "「在那裡的貓在走路。」"}, {"role": "assistant", "content": "kaidisiw a balan muzakay."}]}
+{"messages": [{"role": "user", "content": "「他們在那裡抽菸。」"}, {"role": "assistant", "content": "imu ka kaidisiw mudok tamaku."}]}
+{"messages": [{"role": "user", "content": "「別那樣！」"}, {"role": "assistant", "content": "ana monosu!"}]}
+{"messages": [{"role": "user", "content": "「現在的人，很多壞人呀！」"}, {"role": "assistant", "content": "ohoni a saw, dahu a hazian a saw haé."}]}
+{"messages": [{"role": "user", "content": "「以前的人喜歡去山上。」"}, {"role": "assistant", "content": "ohoza a saw haaput mukusa binayu."}]}
+{"messages": [{"role": "user", "content": "「看到一隻老鼠。」"}, {"role": "assistant", "content": "mikita azang a titay."}]}
+{"messages": [{"role": "user", "content": "「在這裡有一朵花。」"}, {"role": "assistant", "content": "kaidini nahaza adade a lubahing a tulala."}]}
+{"messages": [{"role": "user", "content": "「我們家養三隻豬。」"}, {"role": "assistant", "content": "yami a humak daadalum tuu a bauzak."}]}
+{"messages": [{"role": "user", "content": "「我們兩個是老人。」"}, {"role": "assistant", "content": "yami dusa ka hakezeng a saw."}]}
+{"messages": [{"role": "user", "content": "「咱們三個是臺灣人。」"}, {"role": "assistant", "content": "ita tuu ka tatawan a saw."}]}
+{"messages": [{"role": "user", "content": "「差不多要睡了。」"}, {"role": "assistant", "content": "alia haaput midem lia."}]}
+{"messages": [{"role": "user", "content": "「差不多了。」"}, {"role": "assistant", "content": "alia lia."}]}
+{"messages": [{"role": "user", "content": "「阿公不累，坐著而已。」"}, {"role": "assistant", "content": "apu ka ini tahayak, mituku eezaw."}]}
+{"messages": [{"role": "user", "content": "「這樣而已了。」"}, {"role": "assistant", "content": "imini eezaw lia."}]}
+{"messages": [{"role": "user", "content": "「一個而已。」"}, {"role": "assistant", "content": "adade eezaw."}]}
+{"messages": [{"role": "user", "content": "「這桃子非常甜。」"}, {"role": "assistant", "content": "imini a kazo tuxubut azawzaw."}]}
+{"messages": [{"role": "user", "content": "「別亂騙人。」"}, {"role": "assistant", "content": "ana maahan azawzaw hann."}]}
+{"messages": [{"role": "user", "content": "「Atun 現在在撿我的拐杖。」"}, {"role": "assistant", "content": "atun ohoni medeken yaku a tatoko."}]}
+{"messages": [{"role": "user", "content": "「這不是我的香蕉。」"}, {"role": "assistant", "content": "imini ka uzay yaku a beleben."}]}
+{"messages": [{"role": "user", "content": "「我沒有吃飯。」"}, {"role": "assistant", "content": "yaku ini meken sumay."}]}
+{"messages": [{"role": "user", "content": "「別去！」"}, {"role": "assistant", "content": "ana mukusa!"}]}
+{"messages": [{"role": "user", "content": "「我還沒吃。」"}, {"role": "assistant", "content": "yaku mayaw meken."}]}
+{"messages": [{"role": "user", "content": "「沒有雨了。」"}, {"role": "assistant", "content": "kuang a udan lia."}]}
+{"messages": [{"role": "user", "content": "「我的爸爸不要洗我的衣服。」"}, {"role": "assistant", "content": "yaku a aba ka nang a musinaw yaku a siatu."}]}
+{"messages": [{"role": "user", "content": "「小孩什麼都不懂。」"}, {"role": "assistant", "content": "akhéhén mamek axaxay."}]}
+{"messages": [{"role": "user", "content": "「我吃完了。」"}, {"role": "assistant", "content": "yaku ka mineken lia."}]}
+{"messages": [{"role": "user", "content": "「我的弟弟洗澡很快。」"}, {"role": "assistant", "content": "yaku a suazi mudawan ka maida."}]}
+{"messages": [{"role": "user", "content": "「我是噶哈巫人。」"}, {"role": "assistant", "content": "yaku ka kaxabu a saw."}]}
+{"messages": [{"role": "user", "content": "「我在吃飯。」"}, {"role": "assistant", "content": "yaku ka meken sumay."}]}
+{"messages": [{"role": "user", "content": "「這不是我的香蕉。」"}, {"role": "assistant", "content": "imini ka uzay yaku a beleben."}]}
+{"messages": [{"role": "user", "content": "「我的爸爸走路很快。」"}, {"role": "assistant", "content": "yaku a aba ka maida a muzakay."}]}
+{"messages": [{"role": "user", "content": "「我的祖父走路很慢。」"}, {"role": "assistant", "content": "yaku a apu madiak a muzakay."}]}
+{"messages": [{"role": "user", "content": "「我有哥哥和姊姊。」"}, {"role": "assistant", "content": "yaku nahaza mama iu iah."}]}
+{"messages": [{"role": "user", "content": "「走路和流汗就頭痛了。」"}, {"role": "assistant", "content": "muzakay iu maxidaxang haka asikit a punu lia."}]}
+{"messages": [{"role": "user", "content": "「你是要吃番薯還是芋頭？」"}, {"role": "assistant", "content": "isiw ka haaput meken dadas iu dukun?"}]}
+{"messages": [{"role": "user", "content": "「我要去好，還是不要去好？」"}, {"role": "assistant", "content": "yaku haaput mukusa binayu iak, iu ana mukusa iak?"}]}
+{"messages": [{"role": "user", "content": "「現在下雨了，我不想去看田，也不想去玩。」"}, {"role": "assistant", "content": "ohoni mudan liaka yaku nang a mukusa mikita umama, iu nang a mukusa maahadas."}]}
+{"messages": [{"role": "user", "content": "「這個人很有錢，但是不快樂。」"}, {"role": "assistant", "content": "imini a saw dahu a pai, kulaka ini mahabay a hinis."}]}
+{"messages": [{"role": "user", "content": "「現在雖然有水，但沒有魚了。」"}, {"role": "assistant", "content": "ohoni liaka nahaza dalum kula, kuang a alaw lia."}]}
+{"messages": [{"role": "user", "content": "「唉唷！」"}, {"role": "assistant", "content": "anani!"}]}
+{"messages": [{"role": "user", "content": "「唉唷喂呀！」"}, {"role": "assistant", "content": "anani kuadeng!"}]}
+{"messages": [{"role": "user", "content": "「好險！」"}, {"role": "assistant", "content": "alasay!"}]}
+{"messages": [{"role": "user", "content": "「我們的祖先會帶狗去山上咬豬、羊。」"}, {"role": "assistant", "content": "masu wazu mukusa binayu mungazip bauzak, ilis haki niam a apuapu."}]}
+{"messages": [{"role": "user", "content": "「狗咬我。」"}, {"role": "assistant", "content": "mungazip yaku haki wazu."}]}
+{"messages": [{"role": "user", "content": "「大地震（發生後），房子就倒了。」"}, {"role": "assistant", "content": "mataw a mulaliw liaka mauit liaki humak."}]}
+{"messages": [{"role": "user", "content": "「我的衣服濕了。」"}, {"role": "assistant", "content": "mupayak liaki yaku a siatu."}]}
+{"messages": [{"role": "user", "content": "「桌子壞掉了。」"}, {"role": "assistant", "content": "muasak liaki laladan."}]}
+{"messages": [{"role": "user", "content": "「Atun 打我。」"}, {"role": "assistant", "content": "mututing yaku haki atun."}]}
+{"messages": [{"role": "user", "content": "「被爸爸打了。」"}, {"role": "assistant", "content": "tuting’en ni aba lia."}]}
+{"messages": [{"role": "user", "content": "「我們的村莊有三個 Atun。」"}, {"role": "assistant", "content": "yami a eten nahaza tuu a atun."}]}
+{"messages": [{"role": "user", "content": "「我們守城（的人）住在北邊。」"}, {"role": "assistant", "content": "yami sianglukus malaleng kaidi abaxan."}]}
+{"messages": [{"role": "user", "content": "「牛眠庄在西邊。」"}, {"role": "assistant", "content": "baisia a eten, kaidi ahut."}]}
+{"messages": [{"role": "user", "content": "「我從比較高的、東邊來的。」"}, {"role": "assistant", "content": "yami ka kaidi daya mupuza."}]}
+{"messages": [{"role": "user", "content": "「我想去中國玩。」"}, {"role": "assistant", "content": "yaku haaput mukusa masulohong maahadas."}]}
+{"messages": [{"role": "user", "content": "「你在我的前面。」"}, {"role": "assistant", "content": "isiw ka yaku a dakan."}]}
+{"messages": [{"role": "user", "content": "「你在我的後面。」"}, {"role": "assistant", "content": "isiw ka yaku a aubin."}]}
+{"messages": [{"role": "user", "content": "「在桌上，有香蕉。」"}, {"role": "assistant", "content": "kaidi laladan a babaw, nahaza beleben."}]}
+{"messages": [{"role": "user", "content": "「大湳在南邊。」"}, {"role": "assistant", "content": "kalikut ka kaidi amihan."}]}
+{"messages": [{"role": "user", "content": "「蜈蚣崙東邊一些。」"}, {"role": "assistant", "content": "taumin ka daya taating."}]}
+{"messages": [{"role": "user", "content": "「番薯在田裡。」"}, {"role": "assistant", "content": "dadas kaidi umama."}]}
+{"messages": [{"role": "user", "content": "「我跟哥哥去山上。」"}, {"role": "assistant", "content": "yaku maki mama mukusa binayu."}]}
+{"messages": [{"role": "user", "content": "「他在家裡吃飯了。」"}, {"role": "assistant", "content": "imisiw ka kaidi humak meken sumay lia."}]}
+{"messages": [{"role": "user", "content": "「他在水溝洗衣服。」"}, {"role": "assistant", "content": "imisiw ka kaidi taantaw siisinaw siatu."}]}
+{"messages": [{"role": "user", "content": "「早上阿敦有去田裡。」"}, {"role": "assistant", "content": "sasunan ka atun mukusa umama."}]}
+{"messages": [{"role": "user", "content": "「晚上很多人要洗澡。」"}, {"role": "assistant", "content": "ahuan ka dahu a saw haaput mudawan."}]}
+{"messages": [{"role": "user", "content": "「以前沒有什麼工作，種稻子而已。」"}, {"role": "assistant", "content": "ohoza ka kuang a saanu mukukusa, paxuma mulasi eezaw."}]}
+{"messages": [{"role": "user", "content": "「Atun 現在在撿我的拐杖。」"}, {"role": "assistant", "content": "atun ohoni medeken yaku a tatoko."}]}
+{"messages": [{"role": "user", "content": "「在休息的日子去溪裡抓魚。」"}, {"role": "assistant", "content": "kaidi meseket a daali mukusa ahong maa alaw."}]}
+{"messages": [{"role": "user", "content": "「到中午之後回家吃飯了。」"}, {"role": "assistant", "content": "pasaken daalian liaka mupuza humak meken sumay lia."}]}
+{"messages": [{"role": "user", "content": "「這兩個先互罵，後來互捶。」"}, {"role": "assistant", "content": "imini dusa ka maxupapa muula, aubin liaka maatebetebe lia."}]}
+{"messages": [{"role": "user", "content": "「這番薯是我的番薯。」"}, {"role": "assistant", "content": "imini a dadas ka yaku a dadas."}]}
+{"messages": [{"role": "user", "content": "「那個人生氣了。」"}, {"role": "assistant", "content": "imisiw a saw tangiti lia."}]}
+{"messages": [{"role": "user", "content": "「腰痠就要睡覺。」"}, {"role": "assistant", "content": "mainu a iing ka haaput midem."}]}
+{"messages": [{"role": "user", "content": "「腳很腫了，不要走路了。」"}, {"role": "assistant", "content": "mamuduk a kaaw lia. nang a muzakay lia."}]}
+{"messages": [{"role": "user", "content": "「很多車在路上。」"}, {"role": "assistant", "content": "dahu a paipai kaidi daan."}]}
+{"messages": [{"role": "user", "content": "「去拿一些水。」"}, {"role": "assistant", "content": "mausay maa taating a dalum."}]}
+{"messages": [{"role": "user", "content": "「我有三隻豬。」"}, {"role": "assistant", "content": "yaku ka nahaza tuu a bauzak."}]}
+{"messages": [{"role": "user", "content": "「這是我的衣服。」"}, {"role": "assistant", "content": "imini ka yaku a siatu."}]}
+{"messages": [{"role": "user", "content": "「這是他的香蕉。」"}, {"role": "assistant", "content": "imini ka imisiw a beleben."}]}
+{"messages": [{"role": "user", "content": "「咱們是台灣人。」"}, {"role": "assistant", "content": "ita ka tatawan a saw."}]}
+{"messages": [{"role": "user", "content": "「山上有山豬。」"}, {"role": "assistant", "content": "binayu nahaza binayu a bauzak."}]}
+{"messages": [{"role": "user", "content": "「（現在只有）種水筍而已了。」"}, {"role": "assistant", "content": "paxuma dalum a ali eezaw lia."}]}
+{"messages": [{"role": "user", "content": "「在桌上，有香蕉。」"}, {"role": "assistant", "content": "kaidi laladan a babaw, nahaza beleben."}]}
+{"messages": [{"role": "user", "content": "「以前道路，小小的而已。」"}, {"role": "assistant", "content": "ohoza saanu muzakay a daan tatiting eezaw."}]}
+{"messages": [{"role": "user", "content": "「在這裡的椅子，被小孩拿走了。」"}, {"role": "assistant", "content": "kaidini a aitukuan, aa’en akhéhén lia."}]}
+{"messages": [{"role": "user", "content": "「在那裡的貓在走。」"}, {"role": "assistant", "content": "kaidisiw a balan muzakay."}]}
+{"messages": [{"role": "user", "content": "「我們兩個是老人。」"}, {"role": "assistant", "content": "yami dusa ka hakezeng a saw."}]}
+{"messages": [{"role": "user", "content": "「咱們三人是臺灣人。」"}, {"role": "assistant", "content": "ita tuu ka tatawan a saw."}]}
+{"messages": [{"role": "user", "content": "「你們兩個如果看好就好了。」"}, {"role": "assistant", "content": "imu dusa mikita iak liaka iak lia."}]}
+{"messages": [{"role": "user", "content": "「下雨的時候我不要去玩。」"}, {"role": "assistant", "content": "mudan a daali ka yaku nang a mukusa maahadas."}]}
+{"messages": [{"role": "user", "content": "「在休息的日子去溪裡抓魚。」"}, {"role": "assistant", "content": "kaidi meseket a daali mukusa axung maa alaw."}]}
+{"messages": [{"role": "user", "content": "「會唱歌的人賺很多錢呢。」"}, {"role": "assistant", "content": "mubaza matoway a saw mutahan dahu a pai haé."}]}
+{"messages": [{"role": "user", "content": "「這是那邊的人的香蕉。」"}, {"role": "assistant", "content": "imini ka miadua a saw a beleben."}]}
+{"messages": [{"role": "user", "content": "「那個小孩的衣服濕了。」"}, {"role": "assistant", "content": "imisiw a akhéhan a siatu mupayak lia."}]}
+{"messages": [{"role": "user", "content": "「我要拿一點豬肉去我朋友家。」"}, {"role": "assistant", "content": "yaku haaput maa taating a selem mausay yaku a batan a humak."}]}
+{"messages": [{"role": "user", "content": "「這裡有一朵紅花。」"}, {"role": "assistant", "content": "kaidini nahaza adade a lubahing a tulala."}]}
+{"messages": [{"role": "user", "content": "「不像現在很多大的水，沒有魚可以抓。」"}, {"role": "assistant", "content": "uzay pato ohoni dahu a mataw a dalum, kuang a alaw saanu mukumuk."}]}
+{"messages": [{"role": "user", "content": "「拜很多山上的祖先以及溪裡的祖先。」"}, {"role": "assistant", "content": "musamian dahu a binayu a apuapu iu kaidi axung a apuapu."}]}
+{"messages": [{"role": "user", "content": "「這女孩心地很好。」"}, {"role": "assistant", "content": "imini a akhéhén mamais iak a hinis."}]}
+{"messages": [{"role": "user", "content": "「我很多妹妹。」"}, {"role": "assistant", "content": "yaku dahu a suazi mamais."}]}
+{"messages": [{"role": "user", "content": "「Atun 伯伯去山上工作。」"}, {"role": "assistant", "content": "baba atun mukusa binayu mukukusa."}]}
+{"messages": [{"role": "user", "content": "「Sabong 阿姨去大溪抓魚。」"}, {"role": "assistant", "content": "tata sabong ka mukusa mataw a axung maa alaw."}]}
+{"messages": [{"role": "user", "content": "「很多 Sabong 的名字。」"}, {"role": "assistant", "content": "dahu a angat sabong."}]}
+{"messages": [{"role": "user", "content": "「很多 Sabong 的名字。」"}, {"role": "assistant", "content": "dahu a sabong a langat."}]}
+{"messages": [{"role": "user", "content": "「這是我買的香蕉。」"}, {"role": "assistant", "content": "imini ka yaku mubaiw a beleben."}]}
+{"messages": [{"role": "user", "content": "「那是我祖母種的苧麻。」"}, {"role": "assistant", "content": "imisiw ka yaku a apu paxuma a kixiw."}]}
+{"messages": [{"role": "user", "content": "「我們是台灣人。」"}, {"role": "assistant", "content": "ita ka tatawan a saw."}]}
+{"messages": [{"role": "user", "content": "「我們兩個是老人。」"}, {"role": "assistant", "content": "yami dusa ka hakezeng a saw."}]}
+{"messages": [{"role": "user", "content": "「她是我的母親。」"}, {"role": "assistant", "content": "imisiw ka yaku a ina."}]}
+{"messages": [{"role": "user", "content": "「他是我的父親。」"}, {"role": "assistant", "content": "imisiw ka yaku a aba."}]}
+{"messages": [{"role": "user", "content": "「那是我的爸爸。／他是我的爸爸。」"}, {"role": "assistant", "content": "imisiw ka yaku a aba."}]}
+{"messages": [{"role": "user", "content": "「這是我的朋友。／他是我的朋友。」"}, {"role": "assistant", "content": "imini ka yaku a batan."}]}
+{"messages": [{"role": "user", "content": "「他們在那裡抽菸。」"}, {"role": "assistant", "content": "imu ka kaidisiw mudok tamaku."}]}
+{"messages": [{"role": "user", "content": "「我在這裡玩，他們在那裡玩。」"}, {"role": "assistant", "content": "yaku ka kaidini mutuku, imu ka kaidisiw maahadas."}]}
+{"messages": [{"role": "user", "content": "「他們是客家人。」"}, {"role": "assistant", "content": "imu ka utakay a saw."}]}
+{"messages": [{"role": "user", "content": "「你們兩個人來到我們的家。」"}, {"role": "assistant", "content": "imu dusa mupuza yami a humak."}]}
+{"messages": [{"role": "user", "content": "「他（們）來這邊玩。」"}, {"role": "assistant", "content": "imisiw ka mupuza kaidini maahadas."}]}
+{"messages": [{"role": "user", "content": "「他（們）要回家了。」"}, {"role": "assistant", "content": "imisiw ka mausay humak lia."}]}
+{"messages": [{"role": "user", "content": "「我疼你。」"}, {"role": "assistant", "content": "yaku saisiman isiw."}]}
+{"messages": [{"role": "user", "content": "「你疼我。」"}, {"role": "assistant", "content": "isiw saisiman yaku."}]}
+{"messages": [{"role": "user", "content": "「我是男人。」"}, {"role": "assistant", "content": "yaku ka mamaneng a saw."}]}
+{"messages": [{"role": "user", "content": "「你要去哪裡？」"}, {"role": "assistant", "content": "isiw ka mausay tshay?"}]}
+{"messages": [{"role": "user", "content": "「他自己去街上。」"}, {"role": "assistant", "content": "imisiw adade mukusa mataw eten."}]}
+{"messages": [{"role": "user", "content": "「咱們是台灣人。」"}, {"role": "assistant", "content": "ita ka tatawan a saw."}]}
+{"messages": [{"role": "user", "content": "「我們兩個是老人。」"}, {"role": "assistant", "content": "yami dusa ka hakezeng a saw."}]}
+{"messages": [{"role": "user", "content": "「你們兩個人來到我們的家。」"}, {"role": "assistant", "content": "imu dusa mupuza yami a humak."}]}
+{"messages": [{"role": "user", "content": "「他們是客家人。」"}, {"role": "assistant", "content": "imu ka utakay a saw."}]}
+{"messages": [{"role": "user", "content": "「我很舒服。」"}, {"role": "assistant", "content": "mahabay ki yaku."}]}
+{"messages": [{"role": "user", "content": "「我不要掃地板。」"}, {"role": "assistant", "content": "nang a musapoh daxe haki yaku."}]}
+{"messages": [{"role": "user", "content": "「你真好命。」"}, {"role": "assistant", "content": "iak a lama ki isiw."}]}
+{"messages": [{"role": "user", "content": "「我們沒有錢可以讀書。」"}, {"role": "assistant", "content": "kuang a pai saanu medepex haki yami."}]}
+{"messages": [{"role": "user", "content": "「咱們該起來了！」"}, {"role": "assistant", "content": "iak a saanu mitun haki ita."}]}
+{"messages": [{"role": "user", "content": "「你們讓我很快樂。」"}, {"role": "assistant", "content": "paka yaku matahatan haki imu."}]}
+{"messages": [{"role": "user", "content": "「人愛笑我。」"}, {"role": "assistant", "content": "saw haaput mahatan yaku."}]}
+{"messages": [{"role": "user", "content": "「我愛你。」"}, {"role": "assistant", "content": "yaku haaput isiw."}]}
+{"messages": [{"role": "user", "content": "「政府讓咱們生氣。」"}, {"role": "assistant", "content": "pakatangiti ita haki taumala."}]}
+{"messages": [{"role": "user", "content": "「我們的老師來看我們。」"}, {"role": "assistant", "content": "nita a takat mupuza kiikita yami."}]}
+{"messages": [{"role": "user", "content": "「狗咬我。」"}, {"role": "assistant", "content": "mungazip yaku haki wazu."}]}
+{"messages": [{"role": "user", "content": "「Atun 打我。」"}, {"role": "assistant", "content": "mututing yaku haki atun."}]}
+{"messages": [{"role": "user", "content": "「被我洗了。」"}, {"role": "assistant", "content": "sinaw’en naki lia."}]}
+{"messages": [{"role": "user", "content": "「碗被我拿了。」"}, {"role": "assistant", "content": "salaman maa’en naki lia."}]}
+{"messages": [{"role": "user", "content": "「你的水被我喝了。」"}, {"role": "assistant", "content": "isiw a mizazuk a dalum dok’en yaku lia."}]}
+{"messages": [{"role": "user", "content": "「為什麼你的小孩在哭？」"}, {"role": "assistant", "content": "muaxay ki nisiw a akhéhén mangit hann?"}]}
+{"messages": [{"role": "user", "content": "「被我打了。」"}, {"role": "assistant", "content": "tuting’en yaku hann."}]}
+{"messages": [{"role": "user", "content": "「這隻狗被他打。」"}, {"role": "assistant", "content": "imini a wazu ka saanu imisiw mututing."}]}
+{"messages": [{"role": "user", "content": "「你的水被我喝了。」"}, {"role": "assistant", "content": "nisiw a dalum saana yaku mudok lia."}]}
+{"messages": [{"role": "user", "content": "「這個人偷我的錢。」"}, {"role": "assistant", "content": "imini a saw ka musakaw naki a pai."}]}
+{"messages": [{"role": "user", "content": "「這是你的拐杖。」"}, {"role": "assistant", "content": "imini ka nisiw a tatoko."}]}
+{"messages": [{"role": "user", "content": "「這是我們的香蕉。」"}, {"role": "assistant", "content": "imini ka nita a beleben."}]}
+{"messages": [{"role": "user", "content": "「我們的老師打 Atun 了。」"}, {"role": "assistant", "content": "niam a takat mututing atun lia."}]}
+{"messages": [{"role": "user", "content": "「這是你們的香蕉嗎？」"}, {"role": "assistant", "content": "imini ka nimu a beleben say?"}]}
+{"messages": [{"role": "user", "content": "「這個人偷我的錢。」"}, {"role": "assistant", "content": "imini a saw ka musakaw naki a pai."}]}
+{"messages": [{"role": "user", "content": "「這是我的衣服。」"}, {"role": "assistant", "content": "imini ka naki a siatu."}]}
+{"messages": [{"role": "user", "content": "「這是我的衣服。」"}, {"role": "assistant", "content": "imini ka yaku a siatu."}]}
+{"messages": [{"role": "user", "content": "「你來了嗎？」"}, {"role": "assistant", "content": "mupuza siw say?"}]}
+{"messages": [{"role": "user", "content": "「我要去你那裡。」（我要去你家）"}, {"role": "assistant", "content": "yaku mausay nisiw a humak."}]}
+{"messages": [{"role": "user", "content": "「你來我這裡。」（你來我的家）"}, {"role": "assistant", "content": "isiw mupuza yaku a humak."}]}
+{"messages": [{"role": "user", "content": "「我的爸爸打我。」"}, {"role": "assistant", "content": "yaku a aba mututing yaku."}]}
+{"messages": [{"role": "user", "content": "「這是你的香蕉嗎？」"}, {"role": "assistant", "content": "imini ka isiw a beleben say?"}]}
+{"messages": [{"role": "user", "content": "「這是他的狗。」"}, {"role": "assistant", "content": "imini ka imisiw a wazu."}]}
+{"messages": [{"role": "user", "content": "「這是我們的香蕉。」"}, {"role": "assistant", "content": "imini ka yami a beleben."}]}
+{"messages": [{"role": "user", "content": "「這芋頭是我的芋頭。」"}, {"role": "assistant", "content": "imini a dukun ka yaku a dukun."}]}
+{"messages": [{"role": "user", "content": "「這是芋頭。」"}, {"role": "assistant", "content": "imini ka dukun."}]}
+{"messages": [{"role": "user", "content": "「這是我的衣服。」"}, {"role": "assistant", "content": "imini ka yaku a siatu."}]}
+{"messages": [{"role": "user", "content": "「那是番薯。」"}, {"role": "assistant", "content": "imisiw ka dadas."}]}
+{"messages": [{"role": "user", "content": "「那是我的狗。」"}, {"role": "assistant", "content": "imisiw ka yaku a wazu."}]}
+{"messages": [{"role": "user", "content": "「這個小孩快跌倒了。」"}, {"role": "assistant", "content": "imini a akhéhén ka alia makuala lia."}]}
+{"messages": [{"role": "user", "content": "「那個人生氣了。」"}, {"role": "assistant", "content": "imisiw a saw tangiti lia."}]}
+{"messages": [{"role": "user", "content": "「那個女孩不想自己住。」"}, {"role": "assistant", "content": "imisia a akhéhén mamais ka nang a talima malaleng."}]}
+{"messages": [{"role": "user", "content": "「請去洗！」"}, {"role": "assistant", "content": "usa sinaw’ina!"}]}
+{"messages": [{"role": "user", "content": "「讓（它）熟！」"}, {"role": "assistant", "content": "pakamaziah’i!"}]}
+{"messages": [{"role": "user", "content": "「我沒吃番薯。」"}, {"role": "assistant", "content": "yaku ini meken dadas."}]}
+{"messages": [{"role": "user", "content": "「我不舒服。」"}, {"role": "assistant", "content": "yaku ini mahabay."}]}
+{"messages": [{"role": "user", "content": "「別去！」"}, {"role": "assistant", "content": "ana mukusa!"}]}
+{"messages": [{"role": "user", "content": "「別那麼懶惰！」"}, {"role": "assistant", "content": "ana mahuik!"}]}
+{"messages": [{"role": "user", "content": "「請薄一點！」"}, {"role": "assistant", "content": "pakahalipit’ina!"}]}
+{"messages": [{"role": "user", "content": "「我受寒了。」"}, {"role": "assistant", "content": "yaku kalamik’en lia."}]}
+{"messages": [{"role": "user", "content": "「請讓（他）走！」"}, {"role": "assistant", "content": "pazakay’ina!"}]}
+{"messages": [{"role": "user", "content": "「我的錢被我的伯父撿到了。」"}, {"role": "assistant", "content": "yaku a pai deken’en naki a baba lia."}]}
+{"messages": [{"role": "user", "content": "「隨便亂講了。」"}, {"role": "assistant", "content": "maakuat azawzaw lia."}]}
+{"messages": [{"role": "user", "content": "「我非常熱。」"}, {"role": "assistant", "content": "yaku maakux azawzaw."}]}
+{"messages": [{"role": "user", "content": "「下雨了。」"}, {"role": "assistant", "content": "mudan lia."}]}
+{"messages": [{"role": "user", "content": "「在那裡的貓走。」"}, {"role": "assistant", "content": "kaidisiw a balan muzakay."}]}
+{"messages": [{"role": "user", "content": "「我洗澡洗好了。」"}, {"role": "assistant", "content": "yaku mudawan muuput lia."}]}
+{"messages": [{"role": "user", "content": "「我的祖母在床上睡覺。」"}, {"role": "assistant", "content": "yaku a apu kaidi angasat midem."}]}
+{"messages": [{"role": "user", "content": "「他們在那裡抽菸。」"}, {"role": "assistant", "content": "imu ka kaidisiw mudok tamaku."}]}
+{"messages": [{"role": "user", "content": "「貓抓老鼠。」"}, {"role": "assistant", "content": "balan mukumuk titay."}]}
+{"messages": [{"role": "user", "content": "「他打狗。」"}, {"role": "assistant", "content": "imisiw ka mututing wazu."}]}
+{"messages": [{"role": "user", "content": "「我給你錢。」"}, {"role": "assistant", "content": "yaku mubaxa isiw pai."}]}
+{"messages": [{"role": "user", "content": "「我吃了。」"}, {"role": "assistant", "content": "yaku meken lia."}]}
+{"messages": [{"role": "user", "content": "「我吃番薯了。」"}, {"role": "assistant", "content": "yaku meken dadas lia."}]}
+{"messages": [{"role": "user", "content": "「請讓（它）大一點！」"}, {"role": "assistant", "content": "pakamataw’ina!"}]}
+{"messages": [{"role": "user", "content": "「請讓（它）長一點！」"}, {"role": "assistant", "content": "pakahalupat’ina!"}]}
+{"messages": [{"role": "user", "content": "「請讓（它）便宜一點！」"}, {"role": "assistant", "content": "pakalalima’ina!"}]}
+{"messages": [{"role": "user", "content": "「我沒有瘦。」"}, {"role": "assistant", "content": "yaku ka ini makuit."}]}
+{"messages": [{"role": "user", "content": "「樹不長。」"}, {"role": "assistant", "content": "kahuy ka ini halupat."}]}
+{"messages": [{"role": "user", "content": "「沒有痛怎麼貼這個？」"}, {"role": "assistant", "content": "ini asikit sasay’en a mutapik imini?"}]}
+{"messages": [{"role": "user", "content": "「你回家別那麼快！」"}, {"role": "assistant", "content": "isiw mausay humak ana maida!"}]}
+{"messages": [{"role": "user", "content": "「請短一點！別那麼長！」"}, {"role": "assistant", "content": "pakahatiken’ina! ana halupas!"}]}
+{"messages": [{"role": "user", "content": "「你別那麼胖哦！」"}, {"role": "assistant", "content": "ana baget isiw hann!"}]}
+{"messages": [{"role": "user", "content": "「非常酸。」"}, {"role": "assistant", "content": "mainu azawzaw."}]}
+{"messages": [{"role": "user", "content": "「非常長。」"}, {"role": "assistant", "content": "halupat azawzaw."}]}
+{"messages": [{"role": "user", "content": "「我的腳非常痛，不能走。」"}, {"role": "assistant", "content": "yaku a kaaw asikit azawzaw, nang a muzakay lia."}]}
+{"messages": [{"role": "user", "content": "「漢人討厭我們噶哈巫。」"}, {"role": "assistant", "content": "tapulu madiak yami a kaxabu."}]}
+{"messages": [{"role": "user", "content": "「他先罵他。」"}, {"role": "assistant", "content": "imini ka muula maisat imisiw."}]}
+{"messages": [{"role": "user", "content": "「你想要花嗎？」"}, {"role": "assistant", "content": "isiw haaput tulala bo?"}]}
+{"messages": [{"role": "user", "content": "「我受寒了。」"}, {"role": "assistant", "content": "yaku kalamik’en lia."}]}
+{"messages": [{"role": "user", "content": "「我今天熱到了。」"}, {"role": "assistant", "content": "yaku ohoni kamaakux’en lia."}]}
+{"messages": [{"role": "user", "content": "「這個人酒醉了」"}, {"role": "assistant", "content": "imini a saw kabusukan lia."}]}
+{"messages": [{"role": "user", "content": "「坐了。」"}, {"role": "assistant", "content": "mituku lia."}]}
+{"messages": [{"role": "user", "content": "「去睡！」"}, {"role": "assistant", "content": "usa midem!"}]}
+{"messages": [{"role": "user", "content": "「請睡！」"}, {"role": "assistant", "content": "idem’ina!"}]}
+{"messages": [{"role": "user", "content": "「去山上放陷阱。」"}, {"role": "assistant", "content": "mukusa binayu madu tilikas."}]}
+{"messages": [{"role": "user", "content": "「你的錢放好哦！」"}, {"role": "assistant", "content": "isiw a pai adu’i iak hann."}]}
+{"messages": [{"role": "user", "content": "「今天沒下雨。」"}, {"role": "assistant", "content": "ohoni ini mudan."}]}
+{"messages": [{"role": "user", "content": "「今天沒有雨。」"}, {"role": "assistant", "content": "ohoni ka kuang a udan."}]}
+{"messages": [{"role": "user", "content": "「狗咬我。」"}, {"role": "assistant", "content": "mungazip yaku haki wazu."}]}
+{"messages": [{"role": "user", "content": "「Atun 打我。」"}, {"role": "assistant", "content": "mututing yaku haki atun."}]}
+{"messages": [{"role": "user", "content": "「我喝你的水。」"}, {"role": "assistant", "content": "yaku mudok isiw a mizazuk a dalum."}]}
+{"messages": [{"role": "user", "content": "「我去掃馬路。」"}, {"role": "assistant", "content": "yaku mukusa musapoh daan."}]}
+{"messages": [{"role": "user", "content": "「老鼠被貓咬了。」"}, {"role": "assistant", "content": "titay ngazip’en ni balan lia."}]}
+{"messages": [{"role": "user", "content": "「我的工具被人偷了。」"}, {"role": "assistant", "content": "yaku a balax ka sakaw’en saw lia."}]}
+{"messages": [{"role": "user", "content": "「碗被我拿走了。」"}, {"role": "assistant", "content": "salaman maa’en naki lia."}]}
+{"messages": [{"role": "user", "content": "「我的椅子被人抬走了。」"}, {"role": "assistant", "content": "yaku a aitukuan doko’en saw lia."}]}
+{"messages": [{"role": "user", "content": "「山豬被我父親抓到了。」"}, {"role": "assistant", "content": "binayu a bauzak kumuk’en naki a aba lia."}]}
+{"messages": [{"role": "user", "content": "「被父親打了。」"}, {"role": "assistant", "content": "tuting’en ni aba lia."}]}
+{"messages": [{"role": "user", "content": "「被人打了。」"}, {"role": "assistant", "content": "tuting’en saw lia."}]}
+{"messages": [{"role": "user", "content": "「被我洗了。」"}, {"role": "assistant", "content": "sinaw’en naki lia."}]}
+{"messages": [{"role": "user", "content": "「被人舉走了。」"}, {"role": "assistant", "content": "doko’en saw lia."}]}
+{"messages": [{"role": "user", "content": "「被人喝了。」"}, {"role": "assistant", "content": "mudok’en saw lia."}]}
+{"messages": [{"role": "user", "content": "「碗被（我）拿走了。」"}, {"role": "assistant", "content": "maa’en liaki salaman."}]}
+{"messages": [{"role": "user", "content": "「被咬了。」"}, {"role": "assistant", "content": "ngazip’en lia."}]}
+{"messages": [{"role": "user", "content": "「被偷了。」"}, {"role": "assistant", "content": "sakaw’en lia."}]}
+{"messages": [{"role": "user", "content": "「這隻狗被他打。」"}, {"role": "assistant", "content": "imini a wazu saanu imisiw mututing."}]}
+{"messages": [{"role": "user", "content": "「我被壞人騙了。」"}, {"role": "assistant", "content": "yaku saana hazian a saw maahan lia."}]}
+{"messages": [{"role": "user", "content": "「你的肥皂請給我！」"}, {"role": "assistant", "content": "nisiw a saabazu aitanana!"}]}
+{"messages": [{"role": "user", "content": "「椅子壞掉了。」"}, {"role": "assistant", "content": "muasak liaki aitukuan."}]}
+{"messages": [{"role": "user", "content": "「這用來洗身體。」"}, {"role": "assistant", "content": "imini ka saanu siisinaw buxu."}]}
+{"messages": [{"role": "user", "content": "「我有三枝用來寫的。」"}, {"role": "assistant", "content": "yaku nahaza tuu a saanu biibizu."}]}
+{"messages": [{"role": "user", "content": "「你有用來摀嘴的布（口罩）嗎？」"}, {"role": "assistant", "content": "isiw ka nahaza saanu mutapok a ahan a lalawa bo?"}]}
+{"messages": [{"role": "user", "content": "「父親打小孩。」"}, {"role": "assistant", "content": "aba mututing akhéhén."}]}
+{"messages": [{"role": "user", "content": "「我的錢被我的伯父撿到。」"}, {"role": "assistant", "content": "yaku a pai deken’en naki a baba lia."}]}
+{"messages": [{"role": "user", "content": "「要下雨了。」"}, {"role": "assistant", "content": "maudanay lia."}]}
+{"messages": [{"role": "user", "content": "「下雨了。」"}, {"role": "assistant", "content": "mudan lia."}]}
+{"messages": [{"role": "user", "content": "「將要到了。」"}, {"role": "assistant", "content": "pasakenay lia."}]}
+{"messages": [{"role": "user", "content": "「到了。」"}, {"role": "assistant", "content": "pasaken lia."}]}
+{"messages": [{"role": "user", "content": "「要下雨了。」"}, {"role": "assistant", "content": "alia mudan lia."}]}
+{"messages": [{"role": "user", "content": "「這個小孩要跌倒了。」"}, {"role": "assistant", "content": "imini a akhéhan ka alia makuala lia."}]}
+{"messages": [{"role": "user", "content": "「要熟了。」"}, {"role": "assistant", "content": "alia maziah lia."}]}
+{"messages": [{"role": "user", "content": "「要乾了。」"}, {"role": "assistant", "content": "alia makait lia."}]}
+{"messages": [{"role": "user", "content": "「差不多了。」"}, {"role": "assistant", "content": "alia lia."}]}
+{"messages": [{"role": "user", "content": "「（我）差不多要去了。」"}, {"role": "assistant", "content": "alia mausay lia."}]}
+{"messages": [{"role": "user", "content": "「差不多要到了。」"}, {"role": "assistant", "content": "alia pasakenay lia."}]}
+{"messages": [{"role": "user", "content": "「（我）差不多要睡了。」"}, {"role": "assistant", "content": "alia haaput midem lia."}]}
+{"messages": [{"role": "user", "content": "「在某處雲很黑了，差不多要下雨了。」"}, {"role": "assistant", "content": "kaidi tshay a teehen a uung lia, alia haaput mudan lia."}]}
+{"messages": [{"role": "user", "content": "「腰痠就要休息。」"}, {"role": "assistant", "content": "mainu a iing ka haaput midem."}]}
+{"messages": [{"role": "user", "content": "「人愛笑我。」"}, {"role": "assistant", "content": "saw haaput mahatan yaku."}]}
+{"messages": [{"role": "user", "content": "「我愛你。」"}, {"role": "assistant", "content": "yaku haaput isiw."}]}
+{"messages": [{"role": "user", "content": "「要下雨了。」"}, {"role": "assistant", "content": "haaput mudan lia."}]}
+{"messages": [{"role": "user", "content": "「要來了。」"}, {"role": "assistant", "content": "haaput mupuza lia."}]}
+{"messages": [{"role": "user", "content": "「要洗澡。」"}, {"role": "assistant", "content": "haaput mudawan."}]}
+{"messages": [{"role": "user", "content": "「要下雨了。」"}, {"role": "assistant", "content": "haaput mudan lia."}]}
+{"messages": [{"role": "user", "content": "「我的父親還沒吃完。」"}, {"role": "assistant", "content": "yaku a aba mayaw meneken."}]}
+{"messages": [{"role": "user", "content": "「我吃番薯了。」"}, {"role": "assistant", "content": "yaku meken dadas lia."}]}
+{"messages": [{"role": "user", "content": "「我們的老師打 Atun 了。」"}, {"role": "assistant", "content": "niam a takat mututing atun lia."}]}
+{"messages": [{"role": "user", "content": "「被你父親打了。」"}, {"role": "assistant", "content": "tuting’en nisiw a aba lia."}]}
+{"messages": [{"role": "user", "content": "「我的工具被人偷了。」"}, {"role": "assistant", "content": "yaku a balax ka sakaw’en saw lia."}]}
+{"messages": [{"role": "user", "content": "「我的父親吃完了。」"}, {"role": "assistant", "content": "yaku a aba meneken lia."}]}
+{"messages": [{"role": "user", "content": "「我吃完了。」"}, {"role": "assistant", "content": "meneken liaki yaku."}]}
+{"messages": [{"role": "user", "content": "「我想要睡了。」"}, {"role": "assistant", "content": "yaku haaput midem lia."}]}
+{"messages": [{"role": "user", "content": "「我要回家了。」"}, {"role": "assistant", "content": "yaku mausay humak lia."}]}
+{"messages": [{"role": "user", "content": "「下雨了。」"}, {"role": "assistant", "content": "mudan lia."}]}
+{"messages": [{"role": "user", "content": "「醉了。」"}, {"role": "assistant", "content": "mabusuk lia."}]}
+{"messages": [{"role": "user", "content": "「走了。」"}, {"role": "assistant", "content": "tia lia."}]}
+{"messages": [{"role": "user", "content": "「（我）洗完澡了。」"}, {"role": "assistant", "content": "mudawan muuput lia."}]}
+{"messages": [{"role": "user", "content": "「（我）洗完澡了。」"}, {"role": "assistant", "content": "muuput a mudawan lia."}]}
+{"messages": [{"role": "user", "content": "「我的父親工作好了。」"}, {"role": "assistant", "content": "yaku a aba mukukusa iak lia."}]}
+{"messages": [{"role": "user", "content": "「洗好然後要去曬太陽了。」"}, {"role": "assistant", "content": "musinaw iak liaka mausay palizak a lizak lia."}]}
+{"messages": [{"role": "user", "content": "「洗好了還是還沒？」"}, {"role": "assistant", "content": "mudawan iak lia iu mayaw?"}]}
+{"messages": [{"role": "user", "content": "「我的祖父洗澡洗好了。」"}, {"role": "assistant", "content": "yaku a apu mudawan iak lia."}]}
+{"messages": [{"role": "user", "content": "「我正在看書。」"}, {"role": "assistant", "content": "yaku kiikita babizu."}]}
+{"messages": [{"role": "user", "content": "「我想要看你。」"}, {"role": "assistant", "content": "yaku haaput mikita isiw."}]}
+{"messages": [{"role": "user", "content": "「我在讀書。」"}, {"role": "assistant", "content": "yaku deedepex."}]}
+{"messages": [{"role": "user", "content": "「我的爸爸帶我去讀書。」"}, {"role": "assistant", "content": "yaku a aba masu yaku mukusa medepex."}]}
+{"messages": [{"role": "user", "content": "「我的母親正在煮菜。」"}, {"role": "assistant", "content": "yaku a ina taatalek a saaken."}]}
+{"messages": [{"role": "user", "content": "「我要去煮飯。」"}, {"role": "assistant", "content": "yaku mausay mutalek a sumay."}]}
+{"messages": [{"role": "user", "content": "「在那邊正在起火的人就是我的妹妹。」"}, {"role": "assistant", "content": "kaidisiw tuutuun hapuy haka yaku a suazi mamais."}]}
+{"messages": [{"role": "user", "content": "「你的祖父去哪裡？」"}, {"role": "assistant", "content": "isiw a apu ka duila tshay?"}]}
+{"messages": [{"role": "user", "content": "「在床上睡覺。」"}, {"role": "assistant", "content": "kaidi angasat maidem."}]}
+{"messages": [{"role": "user", "content": "「Atun 睡很久了。」"}, {"role": "assistant", "content": "atun midem mades lia."}]}
+{"messages": [{"role": "user", "content": "「我正坐在這裡。」"}, {"role": "assistant", "content": "yaku maituku kaidini."}]}
+{"messages": [{"role": "user", "content": "「我坐在這裡。」"}, {"role": "assistant", "content": "yaku mituku kaidini."}]}
+{"messages": [{"role": "user", "content": "「在尿尿了。」"}, {"role": "assistant", "content": "paihélut lia."}]}
+{"messages": [{"role": "user", "content": "「尿尿之後要洗手。」"}, {"role": "assistant", "content": "péhélut iak liaka haaput musinaw ima."}]}
+{"messages": [{"role": "user", "content": "「正在下雨了。」"}, {"role": "assistant", "content": "maudan lia."}]}
+{"messages": [{"role": "user", "content": "「下雨了。」"}, {"role": "assistant", "content": "mudan lia."}]}
+{"messages": [{"role": "user", "content": "「我現在在看書。」"}, {"role": "assistant", "content": "yaku ohoni kiikita babizu."}]}
+{"messages": [{"role": "user", "content": "「我現在在吃飯。」"}, {"role": "assistant", "content": "yaku ohoni meken sumay."}]}
+{"messages": [{"role": "user", "content": "「Atun 現在在撿我的拐杖。」"}, {"role": "assistant", "content": "atun ohoni medeken yaku a tatoko."}]}
+{"messages": [{"role": "user", "content": "「去看牛喔！」"}, {"role": "assistant", "content": "usa mikita nuang hann!"}]}
+{"messages": [{"role": "user", "content": "「去拿刀喔！」"}, {"role": "assistant", "content": "usa aai tadaw hann!"}]}
+{"messages": [{"role": "user", "content": "「我去看 Atun。」"}, {"role": "assistant", "content": "yaku mukusa mikita atun."}]}
+{"messages": [{"role": "user", "content": "「請洗澡！」"}, {"role": "assistant", "content": "dawan’i na!"}]}
+{"messages": [{"role": "user", "content": "「請走路！」"}, {"role": "assistant", "content": "zakay’i na!"}]}
+{"messages": [{"role": "user", "content": "「請等我一下呀！」"}, {"role": "assistant", "content": "taxa’i yaku na!"}]}
+{"messages": [{"role": "user", "content": "「貼藥！」"}, {"role": "assistant", "content": "sapik’i iu!"}]}
+{"messages": [{"role": "user", "content": "「請去洗我的衣服！」"}, {"role": "assistant", "content": "usa sinaw’i naki a siatu na!"}]}
+{"messages": [{"role": "user", "content": "「請裝菜和飯！」"}, {"role": "assistant", "content": "zuzut’i saaken iu sumay na!"}]}
+{"messages": [{"role": "user", "content": "「洗衣服！」"}, {"role": "assistant", "content": "sinaw’i siatu!"}]}
+{"messages": [{"role": "user", "content": "「請洗衣服！」"}, {"role": "assistant", "content": "sinaw’i siatu na!"}]}
+{"messages": [{"role": "user", "content": "「你的錢藏起來！」"}, {"role": "assistant", "content": "isiw a pai suzuk’i!"}]}
+{"messages": [{"role": "user", "content": "「你要吃多一點喔！」"}, {"role": "assistant", "content": "isiw meken dahu hann!"}]}
+{"messages": [{"role": "user", "content": "「請來聽！」"}, {"role": "assistant", "content": "alo tumala’ina!"}]}
+{"messages": [{"role": "user", "content": "「請來聞！」"}, {"role": "assistant", "content": "alo sazek’ina!"}]}
+{"messages": [{"role": "user", "content": "「快睡！」"}, {"role": "assistant", "content": "huailo midem!"}]}
+{"messages": [{"role": "user", "content": "「快吃！」"}, {"role": "assistant", "content": "huailo meken!"}]}
+{"messages": [{"role": "user", "content": "「你慢慢地。」"}, {"role": "assistant", "content": "isiw pakinakaw!"}]}
+{"messages": [{"role": "user", "content": "「慢慢吃！」"}, {"role": "assistant", "content": "pakinakaw a meken!"}]}
+{"messages": [{"role": "user", "content": "「我自己來看 Atun 而已喔。」"}, {"role": "assistant", "content": "yaku talima eezaw mupuza mikita atun haé."}]}
+{"messages": [{"role": "user", "content": "「我的弟弟吃很快哦。」"}, {"role": "assistant", "content": "yaku a suazi meken ka maida hann."}]}
+{"messages": [{"role": "user", "content": "「我的祖父走路走很慢。」"}, {"role": "assistant", "content": "yaku a apu madiak a muzakay."}]}
+{"messages": [{"role": "user", "content": "「別睡！」"}, {"role": "assistant", "content": "ana midem!"}]}
+{"messages": [{"role": "user", "content": "「請睡！」"}, {"role": "assistant", "content": "idem’ina!"}]}
+{"messages": [{"role": "user", "content": "「別吃毒品！」"}, {"role": "assistant", "content": "ana meken putian a iu!"}]}
+{"messages": [{"role": "user", "content": "「來吃飯！」"}, {"role": "assistant", "content": "alo meken’i sumay!"}]}
+{"messages": [{"role": "user", "content": "「我們打小孩。」"}, {"role": "assistant", "content": "yami mututing a akhéhén."}]}
+{"messages": [{"role": "user", "content": "「我掃家裡。」"}, {"role": "assistant", "content": "yaku musapoh a humak."}]}
+{"messages": [{"role": "user", "content": "「父親打我。」"}, {"role": "assistant", "content": "aba mututing yaku."}]}
+{"messages": [{"role": "user", "content": "「貓抓老鼠。」"}, {"role": "assistant", "content": "balan mukumuk titay."}]}
+{"messages": [{"role": "user", "content": "「我吃飯。」"}, {"role": "assistant", "content": "yaku ka meken sumay."}]}
+{"messages": [{"role": "user", "content": "「他偷我的錢。」"}, {"role": "assistant", "content": "imini ka musakaw yaku a pai."}]}
+{"messages": [{"role": "user", "content": "「我的父親走路很快。」"}, {"role": "assistant", "content": "yaku a aba ka maida a muzakay."}]}
+{"messages": [{"role": "user", "content": "「我的父親走路很快。」"}, {"role": "assistant", "content": "yaku a aba muzakay maida."}]}
+{"messages": [{"role": "user", "content": "「坐很久了。」"}, {"role": "assistant", "content": "mades a mituku lia."}]}
+{"messages": [{"role": "user", "content": "「坐很久。」"}, {"role": "assistant", "content": "mituku mades."}]}
+{"messages": [{"role": "user", "content": "「我的腳非常痛，不能走。」"}, {"role": "assistant", "content": "yaku a kaaw asikit azawzaw, nang a muzakay lia."}]}
+{"messages": [{"role": "user", "content": "「我非常熱。」"}, {"role": "assistant", "content": "yaku maakux azawzaw."}]}
+{"messages": [{"role": "user", "content": "「我要拿一些豬肉去我的朋友的家。」"}, {"role": "assistant", "content": "yaku haaput maa taating a selem mausay yaku a batan a humak."}]}
+{"messages": [{"role": "user", "content": "「我的父親舒服些了。」"}, {"role": "assistant", "content": "yaku a aba mahabay taating lia."}]}
+{"messages": [{"role": "user", "content": "「我有一點累。」"}, {"role": "assistant", "content": "yaku ka tahayak taating."}]}
+{"messages": [{"role": "user", "content": "「我吃很多然後變胖一些了。」"}, {"role": "assistant", "content": "meken dahu liaka baget taating lia."}]}
+{"messages": [{"role": "user", "content": "「（我）睡一些。」"}, {"role": "assistant", "content": "midem taating."}]}
+{"messages": [{"role": "user", "content": "「（我）休息一些。」"}, {"role": "assistant", "content": "meseket taating."}]}
+{"messages": [{"role": "user", "content": "「休息一些哦！」"}, {"role": "assistant", "content": "seket’i taating hann!"}]}
+{"messages": [{"role": "user", "content": "「我要來去讀書。」"}, {"role": "assistant", "content": "yaku mausay medepex."}]}
+{"messages": [{"role": "user", "content": "「我會說噶哈巫的話。」"}, {"role": "assistant", "content": "yaku mubaza mukawat kaxabu a ahan."}]}
+{"messages": [{"role": "user", "content": "「我想要看你。」"}, {"role": "assistant", "content": "yaku haaput mikita isiw."}]}
+{"messages": [{"role": "user", "content": "「我感到驚嚇。」"}, {"role": "assistant", "content": "yaku midahin."}]}
+{"messages": [{"role": "user", "content": "「Atun 讓我感到驚嚇。」"}, {"role": "assistant", "content": "atun paidahin yaku."}]}
+{"messages": [{"role": "user", "content": "「我的老師教我唱歌。」（字面：我的老師使我會唱歌）"}, {"role": "assistant", "content": "yaku a takat pasibaza yaku matoway."}]}
+{"messages": [{"role": "user", "content": "「我會講噶哈巫的話。」"}, {"role": "assistant", "content": "yaku mubaza mukawat kaxabu a ahan."}]}
+{"messages": [{"role": "user", "content": "「讓（他）走路，（他）就會知道。」"}, {"role": "assistant", "content": "pazakay haka mubaza."}]}
+{"messages": [{"role": "user", "content": "「我的腳很健壯哦，愛走路。」"}, {"role": "assistant", "content": "yaku a kaaw magizem hann, haaput muzakay."}]}
+{"messages": [{"role": "user", "content": "「把你的頭髮弄乾淨一點吧！」"}, {"role": "assistant", "content": "pakamasezaw a nisiw a beket na!"}]}
+{"messages": [{"role": "user", "content": "「我眼睛也沒有看清楚。」"}, {"role": "assistant", "content": "yaku dauik ma ini mikita masezaw."}]}
+{"messages": [{"role": "user", "content": "「你累嗎？」"}, {"role": "assistant", "content": "isiw ka tahayak say?"}]}
+{"messages": [{"role": "user", "content": "「（你）讓（它）長一點，較好看。」"}, {"role": "assistant", "content": "pakahalupat taating ka iak a saanu mikita."}]}
+{"messages": [{"role": "user", "content": "「竹子很長。」"}, {"role": "assistant", "content": "patakan ka halupas."}]}
+{"messages": [{"role": "user", "content": "「Biluan 弄破我的褲子。」"}, {"role": "assistant", "content": "biluan pakamuaping yaku a ukut."}]}
+{"messages": [{"role": "user", "content": "「你的褲子破掉了。」"}, {"role": "assistant", "content": "isiw a ukut muaping lia."}]}
+{"messages": [{"role": "user", "content": "「那個小孩的衣服濕了」"}, {"role": "assistant", "content": "imisiw a akhéhén a siatu mupayak lia."}]}
+{"messages": [{"role": "user", "content": "「父親打我。」"}, {"role": "assistant", "content": "aba mututing yaku."}]}
+{"messages": [{"role": "user", "content": "「Atun 讓我感到驚嚇。」"}, {"role": "assistant", "content": "atun paidahin yaku."}]}
+{"messages": [{"role": "user", "content": "「Atun 讓我感到驚嚇了。」"}, {"role": "assistant", "content": "paidahin yaku liaki atun."}]}
+{"messages": [{"role": "user", "content": "「政府讓我們生氣。」"}, {"role": "assistant", "content": "pakatangiti ita haki taumala."}]}
+{"messages": [{"role": "user", "content": "「Atun 讓我的衣服變黑。」"}, {"role": "assistant", "content": "atun paka yaku a siatu teehen."}]}
+{"messages": [{"role": "user", "content": "「Atun 讓我喝水。」"}, {"role": "assistant", "content": "atun paka yaku mudok dalum."}]}
+{"messages": [{"role": "user", "content": "「祖父很累。」"}, {"role": "assistant", "content": "apu tahayak."}]}
+{"messages": [{"role": "user", "content": "「政府讓我們生氣。」"}, {"role": "assistant", "content": "paka tangiti ita haki taumala."}]}
+{"messages": [{"role": "user", "content": "「現在的政府讓我們生氣。」"}, {"role": "assistant", "content": "paka ita tangiti haki ohoni a taumala."}]}
+{"messages": [{"role": "user", "content": "「我的哥哥討厭我的弟弟，把（他）弄哭。」"}, {"role": "assistant", "content": "yaku a mama madiak yaku a suazi, pakamangit."}]}
+{"messages": [{"role": "user", "content": "「我的哥哥讓我的弟弟哭。」"}, {"role": "assistant", "content": "yaku a mama ka paka yaku a suazi mangit."}]}
+{"messages": [{"role": "user", "content": "「讓你舒服一點。」"}, {"role": "assistant", "content": "paka isiw mahabay taating."}]}
+{"messages": [{"role": "user", "content": "「讓咱們的粿熟。」"}, {"role": "assistant", "content": "paka nita umu maziah."}]}
+{"messages": [{"role": "user", "content": "「Atun 讓我的衣服變黑。」"}, {"role": "assistant", "content": "atun paka yaku a siatu teehen."}]}
+{"messages": [{"role": "user", "content": "「讓豬吃。」"}, {"role": "assistant", "content": "paka bauzak meken."}]}
+{"messages": [{"role": "user", "content": "「我的父親讓我去讀書。」"}, {"role": "assistant", "content": "yaku a aba paka yaku mukusa medepex."}]}
+{"messages": [{"role": "user", "content": "「祖父讓我知道噶哈巫語。」"}, {"role": "assistant", "content": "apu ka paka yaku mubaza kaxabu a ahan."}]}
+{"messages": [{"role": "user", "content": "「我的哥哥讓我的弟弟哭。」"}, {"role": "assistant", "content": "yaku a mama ka paka yaku a suazi mangit."}]}
+{"messages": [{"role": "user", "content": "「你們讓我高興。」"}, {"role": "assistant", "content": "paka yaku matahatan haki imu."}]}
+{"messages": [{"role": "user", "content": "「Atun 讓我喝水。」"}, {"role": "assistant", "content": "atun paka yaku mudok dalum."}]}
+{"messages": [{"role": "user", "content": "「現在的政府讓咱們生氣。」"}, {"role": "assistant", "content": "paka ita tangiti haki ohoni a taumala."}]}
+{"messages": [{"role": "user", "content": "「請讓（他）走路！」"}, {"role": "assistant", "content": "pazakay’ina!"}]}
+{"messages": [{"role": "user", "content": "「請讓（他）看！」"}, {"role": "assistant", "content": "pakita’ina!"}]}
+{"messages": [{"role": "user", "content": "「請讓（他）吃！」"}, {"role": "assistant", "content": "pakan’ina!"}]}
+{"messages": [{"role": "user", "content": "「讓你的鴨子大一點比較好殺。」"}, {"role": "assistant", "content": "nisiw a sibabun pakamataw’i haka saanu mutahay."}]}
+{"messages": [{"role": "user", "content": "「請讓（它）短一點！不要長！」"}, {"role": "assistant", "content": "pakahatiken’ina! ana halupas!"}]}
+{"messages": [{"role": "user", "content": "「請讓（它）白一點！」"}, {"role": "assistant", "content": "pakaisilaw’ina!"}]}
+{"messages": [{"role": "user", "content": "「讓我們村莊的人健壯！」"}, {"role": "assistant", "content": "paka nita eten a saw maxuiakiak’i!"}]}
+{"messages": [{"role": "user", "content": "「請讓（他）看！」"}, {"role": "assistant", "content": "pakita’ina!"}]}
+{"messages": [{"role": "user", "content": "「請讓（兩人）相看。」"}, {"role": "assistant", "content": "paakita’ina!"}]}
+{"messages": [{"role": "user", "content": "「我的父親和母親互（以棍）打。」"}, {"role": "assistant", "content": "yaku a aba iu yaku a ina maakudungkudung."}]}
+{"messages": [{"role": "user", "content": "「這兩個先互罵，後來互捶。」"}, {"role": "assistant", "content": "imidusa ka maxupapa muula, aubin liaka maatebetebe lia."}]}
+{"messages": [{"role": "user", "content": "「我的哥哥和我的弟弟在那邊互摔。」"}, {"role": "assistant", "content": "yaku a mama iu yaku a suazi kaidisiw maaexetexet."}]}
+{"messages": [{"role": "user", "content": "「我們的 Atun 和哪邊的女孩相看了。」"}, {"role": "assistant", "content": "niam a atun iu kaiditshay akhéhén mamais maakitakita lia."}]}
+{"messages": [{"role": "user", "content": "「哥哥和弟弟在那邊相推」"}, {"role": "assistant", "content": "mama iu suazi kaidisiw maadudundudun."}]}
+{"messages": [{"role": "user", "content": "「在那邊生氣然後拿刀互殺。」"}, {"role": "assistant", "content": "kaidisiw mitubi liaka maa tadaw maatahaytahay."}]}
+{"messages": [{"role": "user", "content": "「Atun 愛 Biluan。」"}, {"role": "assistant", "content": "atun ka haaput biluan."}]}
+{"messages": [{"role": "user", "content": "「Atun 和 Biluan 相愛。」"}, {"role": "assistant", "content": "atun iu biluan maakahaaput."}]}
+{"messages": [{"role": "user", "content": "「Abuk 和 Atun 相罵。」"}, {"role": "assistant", "content": "abuk iu atun maxupapa."}]}
+{"messages": [{"role": "user", "content": "「我的父親和我的母親相罵。」"}, {"role": "assistant", "content": "yaku a aba iu ina maxupapa."}]}
+{"messages": [{"role": "user", "content": "「Atun 罵自己。」"}, {"role": "assistant", "content": "atun ka maisat talima."}]}
+{"messages": [{"role": "user", "content": "「Atun 打自己。」"}, {"role": "assistant", "content": "atun ka mututing talima."}]}
+{"messages": [{"role": "user", "content": "「Atun 愛自己。」"}, {"role": "assistant", "content": "atun haaput talima."}]}
+{"messages": [{"role": "user", "content": "「Atun 罵自己。」"}, {"role": "assistant", "content": "atun ka maisat talima."}]}
+{"messages": [{"role": "user", "content": "「Atun 騙自己。」"}, {"role": "assistant", "content": "atun ka maahan talima."}]}
+{"messages": [{"role": "user", "content": "「Atun 罵 Biluan。」"}, {"role": "assistant", "content": "atun ka maisat biluan."}]}
+{"messages": [{"role": "user", "content": "「Atun 騙 Biluan。」"}, {"role": "assistant", "content": "atun ka maahan talima."}]}
+{"messages": [{"role": "user", "content": "「父親打自己的妻子。」"}, {"role": "assistant", "content": "aba ka mututing talima a mamais."}]}
+{"messages": [{"role": "user", "content": "「母親不想洗衣服，讓自己的小孩自己洗。」"}, {"role": "assistant", "content": "ina ka nang a musinaw siatu, paka talima a akhéhén talima musinaw."}]}
+{"messages": [{"role": "user", "content": "「我的祖父自己住。」"}, {"role": "assistant", "content": "yaku a apu talima malaleng."}]}
+{"messages": [{"role": "user", "content": "「我的祖父自己洗澡。」"}, {"role": "assistant", "content": "yaku a apu talima mudawan."}]}
+{"messages": [{"role": "user", "content": "「Atun 自己去放陷阱。」"}, {"role": "assistant", "content": "atun ka talima mukusa madu tilikas."}]}
+{"messages": [{"role": "user", "content": "「我自己去街上」"}, {"role": "assistant", "content": "yaku talima mukusa mataw eten."}]}
+{"messages": [{"role": "user", "content": "「祖父自己吃而已。」"}, {"role": "assistant", "content": "apu ka talima meken eezaw."}]}
+{"messages": [{"role": "user", "content": "「Atun 自己工作而已。」"}, {"role": "assistant", "content": "atun ka talima mukukusa eezaw."}]}
+{"messages": [{"role": "user", "content": "「我不想自己吃。」"}, {"role": "assistant", "content": "yaku ka nang a talima meken."}]}
+{"messages": [{"role": "user", "content": "「我的祖父自己住，也自己吃而已。」"}, {"role": "assistant", "content": "yaku a apu talima malaleng, iu talima meken eezaw."}]}
+{"messages": [{"role": "user", "content": "「這是芋頭。」"}, {"role": "assistant", "content": "imini ka dukun."}]}
+{"messages": [{"role": "user", "content": "「這是芋頭。」"}, {"role": "assistant", "content": "dukun haki imini."}]}
+{"messages": [{"role": "user", "content": "「Atun 是噶哈巫人。」"}, {"role": "assistant", "content": "atun ka kaxabu a saw."}]}
+{"messages": [{"role": "user", "content": "「Atun 是噶哈巫人。」"}, {"role": "assistant", "content": "kaxabu a saw ki atun."}]}
+{"messages": [{"role": "user", "content": "「咱們是臺灣人。」"}, {"role": "assistant", "content": "ita ka tatawan a saw."}]}
+{"messages": [{"role": "user", "content": "「我是男人。」"}, {"role": "assistant", "content": "yaku ka mamaneng a saw."}]}
+{"messages": [{"role": "user", "content": "「他是老師。」"}, {"role": "assistant", "content": "imisiw ka takat."}]}
+{"messages": [{"role": "user", "content": "「這是芋頭。」"}, {"role": "assistant", "content": "imini ka dukun."}]}
+{"messages": [{"role": "user", "content": "「這個村莊是守城。」"}, {"role": "assistant", "content": "imini a eten ka sianglukus."}]}
+{"messages": [{"role": "user", "content": "「那個人是 Atun。」"}, {"role": "assistant", "content": "imisiw a saw ka atun."}]}
+{"messages": [{"role": "user", "content": "「這是我的拐杖。」"}, {"role": "assistant", "content": "imini ka yaku a tatoko."}]}
+{"messages": [{"role": "user", "content": "「這是我的爸爸。」"}, {"role": "assistant", "content": "imini ka yaku a aba."}]}
+{"messages": [{"role": "user", "content": "「這是我爸爸的衣服。」"}, {"role": "assistant", "content": "imini ka yaku a aba a siatu."}]}
+{"messages": [{"role": "user", "content": "「我來了。」"}, {"role": "assistant", "content": "yaku (ka) mupuza lia."}]}
+{"messages": [{"role": "user", "content": "「Atun 打我。」"}, {"role": "assistant", "content": "atun (ka) mututing yaku."}]}
+{"messages": [{"role": "user", "content": "「我來了。」"}, {"role": "assistant", "content": "mupuza haki yaku."}]}
+{"messages": [{"role": "user", "content": "「Atun 打我。」"}, {"role": "assistant", "content": "mututing yaku haki atun."}]}
+{"messages": [{"role": "user", "content": "「他很胖。」"}, {"role": "assistant", "content": "baget haki imini."}]}
+{"messages": [{"role": "user", "content": "「貓咬老鼠了。」"}, {"role": "assistant", "content": "balan mungazip titay lia."}]}
+{"messages": [{"role": "user", "content": "「貓咬老鼠了。」"}, {"role": "assistant", "content": "mungazip titay liaki balan."}]}
+{"messages": [{"role": "user", "content": "「我的工具被人拿了。」"}, {"role": "assistant", "content": "yaku a balax ka sakaw’en saw lia."}]}
+{"messages": [{"role": "user", "content": "「老鼠被貓咬了。」"}, {"role": "assistant", "content": "titay ngazip’en ni balan lia."}]}
+{"messages": [{"role": "user", "content": "「我的錢被我的伯父撿了。」"}, {"role": "assistant", "content": "yaku a pai deken’en naki a baba lia."}]}
+{"messages": [{"role": "user", "content": "「碗被人拿了。」"}, {"role": "assistant", "content": "salaman maa’en saw lia."}]}
+{"messages": [{"role": "user", "content": "「碗被人拿了。」"}, {"role": "assistant", "content": "maa’en saw liaki salaman."}]}
+{"messages": [{"role": "user", "content": "「Atun 被人打了。」"}, {"role": "assistant", "content": "hébut’en saw liaki atun."}]}
+{"messages": [{"role": "user", "content": "「我的錢被小偷偷了。」"}, {"role": "assistant", "content": "yaku a pai sakaw’en sahat lia."}]}
+{"messages": [{"role": "user", "content": "「老鼠被貓咬了。」"}, {"role": "assistant", "content": "titay ngazip’en ni balan lia."}]}
+{"messages": [{"role": "user", "content": "「我被爸爸打了。」"}, {"role": "assistant", "content": "tuting’en ni aba liaki yaku."}]}
+{"messages": [{"role": "user", "content": "「我來了。」"}, {"role": "assistant", "content": "yaku mupuza lia."}]}
+{"messages": [{"role": "user", "content": "「我在這裡坐。」"}, {"role": "assistant", "content": "yaku kaidini mituku."}]}
+{"messages": [{"role": "user", "content": "「這李子是酸的喔。」"}, {"role": "assistant", "content": "imini a kato ka mainu."}]}
+{"messages": [{"role": "user", "content": "「這支枴杖很短。」"}, {"role": "assistant", "content": "imini a tatoko hateken."}]}
+{"messages": [{"role": "user", "content": "「這朵花是白色的。」"}, {"role": "assistant", "content": "imini a tulala ka isilaw."}]}
+{"messages": [{"role": "user", "content": "「Atun 打我。」"}, {"role": "assistant", "content": "atun mututing yaku."}]}
+{"messages": [{"role": "user", "content": "「你想要花嗎？」"}, {"role": "assistant", "content": "isiw haaput tulala bo?"}]}
+{"messages": [{"role": "user", "content": "「Atun 是噶哈巫人。」"}, {"role": "assistant", "content": "atun ka kaxabu a saw."}]}
+{"messages": [{"role": "user", "content": "「Atun 沒有打我。」"}, {"role": "assistant", "content": "atun (ka) mututing yaku."}]}
+{"messages": [{"role": "user", "content": "「桌子（上）有菜餚。」"}, {"role": "assistant", "content": "laladan nahaza saaken."}]}
+{"messages": [{"role": "user", "content": "「山（上）有山豬。」"}, {"role": "assistant", "content": "binayu nahaza binayu a bauzak."}]}
+{"messages": [{"role": "user", "content": "「田（裡）有番薯。」"}, {"role": "assistant", "content": "umamah nahaza dadas."}]}
+{"messages": [{"role": "user", "content": "「讓你多子多孫，有孫子、小孩！」"}, {"role": "assistant", "content": "paka isiw paluzuakzuak’i, nahaza ali akhéhén!"}]}
+{"messages": [{"role": "user", "content": "「我也有錢。」"}, {"role": "assistant", "content": "yaku iu nahaza pai."}]}
+{"messages": [{"role": "user", "content": "「你們家有屎。」"}, {"role": "assistant", "content": "nahaza saix haki nisiw a humak."}]}
+{"messages": [{"role": "user", "content": "「田（裡）沒有番薯。」"}, {"role": "assistant", "content": "umamah kuang a dadas."}]}
+{"messages": [{"role": "user", "content": "「山（上）沒有豬了。」"}, {"role": "assistant", "content": "binayu kuang a bauzak lia."}]}
+{"messages": [{"role": "user", "content": "「我有錢。」"}, {"role": "assistant", "content": "yaku nahaza pai."}]}
+{"messages": [{"role": "user", "content": "「我有哥哥和姐姐。」"}, {"role": "assistant", "content": "yaku nahaza mama iu iah."}]}
+{"messages": [{"role": "user", "content": "「我吃了。」"}, {"role": "assistant", "content": "yaku meken lia."}]}
+{"messages": [{"role": "user", "content": "「這小女孩很漂亮。」"}, {"role": "assistant", "content": "imini a akhéhén mamay ka hinawiak."}]}
+{"messages": [{"role": "user", "content": "「我沒有錢。」"}, {"role": "assistant", "content": "yaku kuang a pai."}]}
+{"messages": [{"role": "user", "content": "「我的祖母在床（上）。」"}, {"role": "assistant", "content": "yaku a apu kaidi angasat."}]}
+{"messages": [{"role": "user", "content": "「番薯在田（裡）。」"}, {"role": "assistant", "content": "dadas kaidi umamah."}]}
+{"messages": [{"role": "user", "content": "「菜在桌（上）。」"}, {"role": "assistant", "content": "saaken kaidi laladan."}]}
+{"messages": [{"role": "user", "content": "「我的祖母在床上睡覺。」"}, {"role": "assistant", "content": "yaku a apu kaidi angasat midem."}]}
+{"messages": [{"role": "user", "content": "「我的祖母在床上睡覺。」"}, {"role": "assistant", "content": "yaku a apu midem kaidi angasat."}]}
+{"messages": [{"role": "user", "content": "「床上有狗。」"}, {"role": "assistant", "content": "angasat nahaza wazu."}]}
+{"messages": [{"role": "user", "content": "「床上有狗在那邊睡覺。」"}, {"role": "assistant", "content": "angasat nahaza wazu kaidisiw midem."}]}
+{"messages": [{"role": "user", "content": "「番薯沒有在田（裡）。」"}, {"role": "assistant", "content": "dadas kuang a kaidi umamah."}]}
+{"messages": [{"role": "user", "content": "「沒有菜餚在桌（上）。」"}, {"role": "assistant", "content": "kuang a saaken kaidi laladan."}]}
+{"messages": [{"role": "user", "content": "「貓咬老鼠了。」"}, {"role": "assistant", "content": "mungazip titay liaki balan."}]}
+{"messages": [{"role": "user", "content": "「老鼠被貓咬了。」"}, {"role": "assistant", "content": "titay ngazip’en ni balan lia."}]}
+{"messages": [{"role": "user", "content": "「貓咬老鼠。」"}, {"role": "assistant", "content": "balan mungazip titay."}]}
+{"messages": [{"role": "user", "content": "「我的椅子被人抬走了。」"}, {"role": "assistant", "content": "yaku a aitukuan doko’en saw lia."}]}
+{"messages": [{"role": "user", "content": "「狗咬我。」"}, {"role": "assistant", "content": "mungazip yaku haki wazu."}]}
+{"messages": [{"role": "user", "content": "「狗在吠。」"}, {"role": "assistant", "content": "mulawa liaki wazu."}]}
+{"messages": [{"role": "user", "content": "「桌子壞掉了。」"}, {"role": "assistant", "content": "muasak liaki laladan."}]}
+{"messages": [{"role": "user", "content": "「狗被我打了。」"}, {"role": "assistant", "content": "tuting’en naki liaki wazu."}]}
+{"messages": [{"role": "user", "content": "「碗被拿了。」"}, {"role": "assistant", "content": "maa’en liaki salaman."}]}
+{"messages": [{"role": "user", "content": "「老鼠被貓咬了。」"}, {"role": "assistant", "content": "titay ngazip’en ni balan lia."}]}
+{"messages": [{"role": "user", "content": "「被爸爸打了。」"}, {"role": "assistant", "content": "tuting’en ni aba lia."}]}
+{"messages": [{"role": "user", "content": "「我吃完了。」"}, {"role": "assistant", "content": "mineken liaki yaku."}]}
+{"messages": [{"role": "user", "content": "「我吃完了。」"}, {"role": "assistant", "content": "yaku mineken lia."}]}
+{"messages": [{"role": "user", "content": "「我真高興。」"}, {"role": "assistant", "content": "matahatan haki yaku."}]}
+{"messages": [{"role": "user", "content": "「我討厭掃地。」"}, {"role": "assistant", "content": "nang a musapo daxe haki yaku."}]}
+{"messages": [{"role": "user", "content": "「我很舒服。」"}, {"role": "assistant", "content": "mahabay ki yaku."}]}
+{"messages": [{"role": "user", "content": "「你真好命。」"}, {"role": "assistant", "content": "iak a lama ki isiw."}]}
+{"messages": [{"role": "user", "content": "「我被爸爸打了。」"}, {"role": "assistant", "content": "tuting’en ni aba liaki yaku."}]}
+{"messages": [{"role": "user", "content": "「狗被我打了。」"}, {"role": "assistant", "content": "tuting’en naki liaki wazu."}]}
+{"messages": [{"role": "user", "content": "「被我洗了。」"}, {"role": "assistant", "content": "sinaw’en naki lia."}]}
+{"messages": [{"role": "user", "content": "「碗被我拿走了。」"}, {"role": "assistant", "content": "salaman maa’en naki lia."}]}
+{"messages": [{"role": "user", "content": "「我們打小孩」"}, {"role": "assistant", "content": "yami mututing a akhéhén."}]}
+{"messages": [{"role": "user", "content": "「我要來煮飯。」"}, {"role": "assistant", "content": "yaku mausay mutalek a sumay."}]}
+{"messages": [{"role": "user", "content": "「我吃飯。」"}, {"role": "assistant", "content": "yaku meken sumay."}]}
+{"messages": [{"role": "user", "content": "「貓抓老鼠。」"}, {"role": "assistant", "content": "balan mukumuk titay."}]}
+{"messages": [{"role": "user", "content": "「我喜歡吃青苔。」"}, {"role": "assistant", "content": "yaku a haaput meken a hapus."}]}
+{"messages": [{"role": "user", "content": "「我胖了。」"}, {"role": "assistant", "content": "yaku a baget lia."}]}
+{"messages": [{"role": "user", "content": "「我喜歡使地板乾淨。」"}, {"role": "assistant", "content": "yaku a haaput pasezaw daxe."}]}
+{"messages": [{"role": "user", "content": "「我不太舒服。」"}, {"role": "assistant", "content": "yaku a ini mahabay taating."}]}
+{"messages": [{"role": "user", "content": "「Atun 被人打了。」"}, {"role": "assistant", "content": "hébut’en saw liaki atun."}]}
+{"messages": [{"role": "user", "content": "「我很疼你。」"}, {"role": "assistant", "content": "yaku saisiman isiw."}]}
+{"messages": [{"role": "user", "content": "「你很疼我。」"}, {"role": "assistant", "content": "isiw saisiman yaku."}]}
+{"messages": [{"role": "user", "content": "「貓咬老鼠。」"}, {"role": "assistant", "content": "balan mungazip titay."}]}
+{"messages": [{"role": "user", "content": "「爸爸打小孩。」"}, {"role": "assistant", "content": "aba mututing akhéhén."}]}
+{"messages": [{"role": "user", "content": "「我的工具被人偷了。」"}, {"role": "assistant", "content": "yaku a balax ka sakaw’en saw lia."}]}
+{"messages": [{"role": "user", "content": "「碗被我拿走了。」"}, {"role": "assistant", "content": "salaman maa’en naki lia."}]}
+{"messages": [{"role": "user", "content": "「我的椅子被人抬走了。」"}, {"role": "assistant", "content": "yaku a aitukuan doko’en saw lia."}]}
+{"messages": [{"role": "user", "content": "「山豬被我父親抓到了。」"}, {"role": "assistant", "content": "binayu a bauzak kumuk’en naki a aba lia."}]}
+{"messages": [{"role": "user", "content": "「貓咬老鼠。」"}, {"role": "assistant", "content": "balan mungazip titay."}]}
+{"messages": [{"role": "user", "content": "「爸爸打小孩。」"}, {"role": "assistant", "content": "aba mututing akhéhén."}]}
+{"messages": [{"role": "user", "content": "「我在吃飯。」"}, {"role": "assistant", "content": "yaku ka meken sumay."}]}
+{"messages": [{"role": "user", "content": "「他打狗。」"}, {"role": "assistant", "content": "imisiw ka mututing wazu."}]}
+{"messages": [{"role": "user", "content": "「他打狗。」"}, {"role": "assistant", "content": "imisiw ka mututing wazu."}]}
+{"messages": [{"role": "user", "content": "「這隻狗給他打。」"}, {"role": "assistant", "content": "imini a wazu saanu imisiw mututing."}]}
+{"messages": [{"role": "user", "content": "「這隻狗給他打。」"}, {"role": "assistant", "content": "imini a wazu saanu imisiw mututing."}]}
+{"messages": [{"role": "user", "content": "「我被壞人騙了。」"}, {"role": "assistant", "content": "yaku saana hazian a saw maahan lia."}]}
+{"messages": [{"role": "user", "content": "「我的錢被小偷全拿走了。」"}, {"role": "assistant", "content": "yaku a pai ka saana sahas maa dadua lia."}]}
+{"messages": [{"role": "user", "content": "「我拿花給你。」"}, {"role": "assistant", "content": "yaku maa tulala saanu isiw."}]}
+{"messages": [{"role": "user", "content": "「我拿草給牛吃。」"}, {"role": "assistant", "content": "yaku maa seme saanu nuang meken."}]}
+{"messages": [{"role": "user", "content": "「我的小孩被老師打。」"}, {"role": "assistant", "content": "yaku a akhéhén saanu takat mututing."}]}
+{"messages": [{"role": "user", "content": "「你的水被我喝了。」"}, {"role": "assistant", "content": "isiw a dalum saana yaku mudok lia."}]}
+{"messages": [{"role": "user", "content": "「狗在吠。」"}, {"role": "assistant", "content": "mulawa liaki wazu."}]}
+{"messages": [{"role": "user", "content": "「我被爸爸打了。」"}, {"role": "assistant", "content": "tuting’en ni aba liaki yaku."}]}
+{"messages": [{"role": "user", "content": "「貓有咬老鼠了。」"}, {"role": "assistant", "content": "mungazip titay liaki balan."}]}
+{"messages": [{"role": "user", "content": "「那個人生氣了。」"}, {"role": "assistant", "content": "imisiw a saw tangiti lia."}]}
+{"messages": [{"role": "user", "content": "「貓咬老鼠。」"}, {"role": "assistant", "content": "balan mungazip titay."}]}
+{"messages": [{"role": "user", "content": "「我是噶哈巫人。」"}, {"role": "assistant", "content": "yaku ka kaxabu a saw."}]}
+{"messages": [{"role": "user", "content": "「這不是我的香蕉。」"}, {"role": "assistant", "content": "imini ka uzay yaku a beleben."}]}
+{"messages": [{"role": "user", "content": "「我不是噶哈巫，也不是客家人。我是閩南人。」"}, {"role": "assistant", "content": "yaku ka uzay kaxabu, iu uzay utakay. yaku ka tapulu."}]}
+{"messages": [{"role": "user", "content": "「我不是吃蕃薯哦。」"}, {"role": "assistant", "content": "yaku uzay meken dadas hann."}]}
+{"messages": [{"role": "user", "content": "「我不是喝酒，是喝水哦。」"}, {"role": "assistant", "content": "yaku uzay mudok inusat. mudok dalum hann."}]}
+{"messages": [{"role": "user", "content": "「我不是吃蕃薯哦。」"}, {"role": "assistant", "content": "yaku uzay meken dadas hann."}]}
+{"messages": [{"role": "user", "content": "「我沒有吃蕃薯哦。」"}, {"role": "assistant", "content": "yaku ini meken dadas hann."}]}
+{"messages": [{"role": "user", "content": "「今天沒下雨。」"}, {"role": "assistant", "content": "ohoni ini mudan."}]}
+{"messages": [{"role": "user", "content": "「下雨了。」"}, {"role": "assistant", "content": "mudan lia."}]}
+{"messages": [{"role": "user", "content": "「我沒洗腳。」"}, {"role": "assistant", "content": "yaku ini musinaw kaaw."}]}
+{"messages": [{"role": "user", "content": "「祖父很累。」"}, {"role": "assistant", "content": "apu tahayak."}]}
+{"messages": [{"role": "user", "content": "「祖父不累。」"}, {"role": "assistant", "content": "apu ini tahayak."}]}
+{"messages": [{"role": "user", "content": "「（你）沒有讓我累。」"}, {"role": "assistant", "content": "ini paka yaku tahayak."}]}
+{"messages": [{"role": "user", "content": "「我不舒服。」"}, {"role": "assistant", "content": "ini mahabay haki yaku."}]}
+{"messages": [{"role": "user", "content": "「你會累嗎？」"}, {"role": "assistant", "content": "isiw ka tahayak say?"}]}
+{"messages": [{"role": "user", "content": "「不會。」"}, {"role": "assistant", "content": "ini."}]}
+{"messages": [{"role": "user", "content": "「讓你累了！／謝謝你！」"}, {"role": "assistant", "content": "pakatahayak!"}]}
+{"messages": [{"role": "user", "content": "「不會。」（被感謝／稱讚時回應）"}, {"role": "assistant", "content": "ini."}]}
+{"messages": [{"role": "user", "content": "「不會、不會。」（被感謝／稱讚時之回應）"}, {"role": "assistant", "content": "ini ini."}]}
+{"messages": [{"role": "user", "content": "「我有錢。」"}, {"role": "assistant", "content": "yaku nahaza pai."}]}
+{"messages": [{"role": "user", "content": "「我沒有錢。」"}, {"role": "assistant", "content": "yaku kuang a pai."}]}
+{"messages": [{"role": "user", "content": "「我們沒有錢可以讀書。」"}, {"role": "assistant", "content": "kuang a pai saanu medepex haki yami."}]}
+{"messages": [{"role": "user", "content": "「我沒有吃飯。」"}, {"role": "assistant", "content": "yaku ini meken sumay."}]}
+{"messages": [{"role": "user", "content": "「我沒有錢。」"}, {"role": "assistant", "content": "yaku kuang a pai."}]}
+{"messages": [{"role": "user", "content": "「（你）別那麼快！」"}, {"role": "assistant", "content": "ana/ausin maida!"}]}
+{"messages": [{"role": "user", "content": "「（你）別睡！」"}, {"role": "assistant", "content": "ana/ausin midem!"}]}
+{"messages": [{"role": "user", "content": "「我要去山上好，還是不要去好？」"}, {"role": "assistant", "content": "yaku haaput mukusa binayu iak, iu ana mukusa iak."}]}
+{"messages": [{"role": "user", "content": "「請等一下。」"}, {"role": "assistant", "content": "maana na."}]}
+{"messages": [{"role": "user", "content": "「我討厭吃青苔。」"}, {"role": "assistant", "content": "nang a meken haput haki yaku."}]}
+{"messages": [{"role": "user", "content": "「我討厭掃地。」"}, {"role": "assistant", "content": "nang a musapo daxe haki yaku."}]}
+{"messages": [{"role": "user", "content": "「我不要這個。」"}, {"role": "assistant", "content": "nang a imini haki yaku."}]}
+{"messages": [{"role": "user", "content": "「我不要養狗。」"}, {"role": "assistant", "content": "nang a mudalum a wazu haki yaku."}]}
+{"messages": [{"role": "user", "content": "「今天沒下雨，明天則不知道有雨還是沒有。」"}, {"role": "assistant", "content": "sawan mamek nahaza udan asi kaung."}]}
+{"messages": [{"role": "user", "content": "「今天沒下雨。明天不知道有雨還是沒有。」"}, {"role": "assistant", "content": "sawan ini mubaza nahaza udan asi kaung."}]}
+{"messages": [{"role": "user", "content": "「我吃飯了。」"}, {"role": "assistant", "content": "yaku ka meken sumay lia."}]}
+{"messages": [{"role": "user", "content": "「我還沒吃飯。」"}, {"role": "assistant", "content": "yaku mayaw meken sumay."}]}
+{"messages": [{"role": "user", "content": "「還沒。」"}, {"role": "assistant", "content": "mayaw."}]}
+{"messages": [{"role": "user", "content": "「我吃蕃薯。」"}, {"role": "assistant", "content": "yaku meken dadas."}]}
+{"messages": [{"role": "user", "content": "「我沒有吃蕃薯。」"}, {"role": "assistant", "content": "yaku ini meken dadas."}]}
+{"messages": [{"role": "user", "content": "「我有錢。」"}, {"role": "assistant", "content": "yaku nahaza pai."}]}
+{"messages": [{"role": "user", "content": "「我沒有錢。」"}, {"role": "assistant", "content": "yaku kuang a pai."}]}
+{"messages": [{"role": "user", "content": "「睡！」"}, {"role": "assistant", "content": "idem’i!"}]}
+{"messages": [{"role": "user", "content": "「別睡！」"}, {"role": "assistant", "content": "ana midem!"}]}
+{"messages": [{"role": "user", "content": "「那是你的狗嗎？」"}, {"role": "assistant", "content": "imisiw ka nisiw a wazu say?"}]}
+{"messages": [{"role": "user", "content": "「你是噶哈巫（族）人嗎？」"}, {"role": "assistant", "content": "isiw ka kaxabu say?"}]}
+{"messages": [{"role": "user", "content": "「你在烤地瓜嗎？」"}, {"role": "assistant", "content": "isiw musuling dadas say?"}]}
+{"messages": [{"role": "user", "content": "「你打我的狗嗎？」"}, {"role": "assistant", "content": "isiw ka mututing yaku a wazu say?"}]}
+{"messages": [{"role": "user", "content": "「你會累嗎？」"}, {"role": "assistant", "content": "isiw ka tahayak say?"}]}
+{"messages": [{"role": "user", "content": "「你不累嗎？」"}, {"role": "assistant", "content": "isiw ka ini tahayak say?"}]}
+{"messages": [{"role": "user", "content": "「你是客家人嗎？」"}, {"role": "assistant", "content": "isiw ka utakay say?"}]}
+{"messages": [{"role": "user", "content": "「是的。」"}, {"role": "assistant", "content": "hauay."}]}
+{"messages": [{"role": "user", "content": "「你是去街上嗎？」"}, {"role": "assistant", "content": "isiw ka mukusa mataw eten say?"}]}
+{"messages": [{"role": "user", "content": "「是的。去買一些油。」"}, {"role": "assistant", "content": "hauay. mukusa mubaiw taating a selem."}]}
+{"messages": [{"role": "user", "content": "「你有這個嗎？」"}, {"role": "assistant", "content": "isiw ka nahaza imini bo?"}]}
+{"messages": [{"role": "user", "content": "「你要去走路嗎？」"}, {"role": "assistant", "content": "isiw mausay muzakay bo?"}]}
+{"messages": [{"role": "user", "content": "「你是噶哈巫（族）人嗎？」"}, {"role": "assistant", "content": "isiw ka kaxabu say?"}]}
+{"messages": [{"role": "user", "content": "「你是噶哈巫（族）人嗎？」"}, {"role": "assistant", "content": "isiw ka kaxabu say?"}]}
+{"messages": [{"role": "user", "content": "「這是你們的香蕉嗎？」"}, {"role": "assistant", "content": "imini ka nimu a beleben say?"}]}
+{"messages": [{"role": "user", "content": "「你要吃番薯還是芋頭？」"}, {"role": "assistant", "content": "isiw ka haaput meken dadas iu dukun?"}]}
+{"messages": [{"role": "user", "content": "「我去山上好，還是別去好？」"}, {"role": "assistant", "content": "yaku haaput mukusa binayu iak, iu ana mukusa iak?"}]}
+{"messages": [{"role": "user", "content": "「這是木板還是不是？」"}, {"role": "assistant", "content": "imini ka kabas iu uzay?"}]}
+{"messages": [{"role": "user", "content": "「洗好了還是還沒？」"}, {"role": "assistant", "content": "mudawan iak lia iu mayaw?"}]}
+{"messages": [{"role": "user", "content": "「你要斗笠還是不要？」"}, {"role": "assistant", "content": "isiw ka haaput tabako iu nang?"}]}
+{"messages": [{"role": "user", "content": "「我是閩南人。」"}, {"role": "assistant", "content": "yaku ka tapulu."}]}
+{"messages": [{"role": "user", "content": "「誰不好？」"}, {"role": "assistant", "content": "ima ki hazian?"}]}
+{"messages": [{"role": "user", "content": "「你住在哪裡？」"}, {"role": "assistant", "content": "isiw ka malaleng kaidi tshay?"}]}
+{"messages": [{"role": "user", "content": "「我住在牛眠。」"}, {"role": "assistant", "content": "yaku malaleng kaidi baisia."}]}
+{"messages": [{"role": "user", "content": "「你要去哪裡？」"}, {"role": "assistant", "content": "isiw ka mausay tshay?"}]}
+{"messages": [{"role": "user", "content": "「要去那邊。」"}, {"role": "assistant", "content": "mausay miadua."}]}
+{"messages": [{"role": "user", "content": "「你從哪裡來？」"}, {"role": "assistant", "content": "isiw ka kaidi tshay mupuza?"}]}
+{"messages": [{"role": "user", "content": "「我從街上來。」"}, {"role": "assistant", "content": "yaku ka mataw eten mupuza."}]}
+{"messages": [{"role": "user", "content": "「你在哪裡買菜？」（字面：你的菜在哪裡買？）"}, {"role": "assistant", "content": "nisiw a halam kaidi thsay mubaiw?"}]}
+{"messages": [{"role": "user", "content": "「在街上。」"}, {"role": "assistant", "content": "kaidi mataw eten."}]}
+{"messages": [{"role": "user", "content": "「你在哪裡出生？」"}, {"role": "assistant", "content": "isiw ka kaidi thsay maukhehan?"}]}
+{"messages": [{"role": "user", "content": "「在守城。」"}, {"role": "assistant", "content": "kaidi sianglukus."}]}
+{"messages": [{"role": "user", "content": "「你們是哪裡的人？」"}, {"role": "assistant", "content": "imu ka kaidi tshay a saw?"}]}
+{"messages": [{"role": "user", "content": "「你有多少小孩？」"}, {"role": "assistant", "content": "isiw haima akhéhén?"}]}
+{"messages": [{"role": "user", "content": "「兩個而已。」"}, {"role": "assistant", "content": "dusa eezaw."}]}
+{"messages": [{"role": "user", "content": "「你的菜多少錢？」"}, {"role": "assistant", "content": "nisiw a xalam haima pai?"}]}
+{"messages": [{"role": "user", "content": "「你有幾隻狗？」（字面意義：你的狗多少）"}, {"role": "assistant", "content": "nisiw a wazu haima?"}]}
+{"messages": [{"role": "user", "content": "「沒養狗。」"}, {"role": "assistant", "content": "ini mudalum a wazu."}]}
+{"messages": [{"role": "user", "content": "「你的小孩多大了？」"}, {"role": "assistant", "content": "isiw a akhéhén haima mataw lia?"}]}
+{"messages": [{"role": "user", "content": "「還不知道什麼。」"}, {"role": "assistant", "content": "mayaw mubaza axaxay."}]}
+{"messages": [{"role": "user", "content": "「你的手怎麼了？」"}, {"role": "assistant", "content": "nisiw a ima ka muaxay?"}]}
+{"messages": [{"role": "user", "content": "「手痛。」"}, {"role": "assistant", "content": "asikit a ima."}]}
+{"messages": [{"role": "user", "content": "「你掃把怎麼做的？」"}, {"role": "assistant", "content": "nisiw a sasapo muaxay mubuyak?"}]}
+{"messages": [{"role": "user", "content": "「（你）為什麼要打我的小孩？」"}, {"role": "assistant", "content": "muaxay haaput mututing yaku a akhéhén?"}]}
+{"messages": [{"role": "user", "content": "「講不聽。」（字面意義：難講）"}, {"role": "assistant", "content": "hazian a mukawas."}]}
+{"messages": [{"role": "user", "content": "「為什麼不吃飯？」"}, {"role": "assistant", "content": "muaxay ka nang a meken sumay?"}]}
+{"messages": [{"role": "user", "content": "「飽了。不要吃飯。」"}, {"role": "assistant", "content": "téleket lia. nang a meken sumay."}]}
+{"messages": [{"role": "user", "content": "「為什麼不要喝水？」"}, {"role": "assistant", "content": "muaxay ka nang a mudok dalum?"}]}
+{"messages": [{"role": "user", "content": "「脖子沒乾。」"}, {"role": "assistant", "content": "ini makait a haho."}]}
+{"messages": [{"role": "user", "content": "「怎麼會下雨？」"}, {"role": "assistant", "content": "muaxay mudan?"}]}
+{"messages": [{"role": "user", "content": "「天空黑。」"}, {"role": "assistant", "content": "teehen a babaw."}]}
+{"messages": [{"role": "user", "content": "「你為什麼不要吃飯？」"}, {"role": "assistant", "content": "isiw ka sasay nang a meken sumay?"}]}
+{"messages": [{"role": "user", "content": "「為什麼打我呢？」"}, {"role": "assistant", "content": "sasay ka mututing yaku hann?"}]}
+{"messages": [{"role": "user", "content": "「怎麼洗？」"}, {"role": "assistant", "content": "sasay’en a musinaw?"}]}
+{"messages": [{"role": "user", "content": "「這菜餚怎麼煮？」"}, {"role": "assistant", "content": "imini a saaken ka sasay’en a mutalek?"}]}
+{"messages": [{"role": "user", "content": "「沒有痛怎麼貼這個？」"}, {"role": "assistant", "content": "ini asikit sasay’in a mutapik imini?"}]}
+{"messages": [{"role": "user", "content": "「怎麼辦？」"}, {"role": "assistant", "content": "sasay’en lia?"}]}
+{"messages": [{"role": "user", "content": "「什麼時候你才要睡覺？」"}, {"role": "assistant", "content": "axay daali haka midem?"}]}
+{"messages": [{"role": "user", "content": "「什麼時候要洗澡？」"}, {"role": "assistant", "content": "axay daali haaput mudawan?"}]}
+{"messages": [{"role": "user", "content": "「什麼時候要去街上買肉？」"}, {"role": "assistant", "content": "axay daali mausay mataw eten mubaiw selem?"}]}
+{"messages": [{"role": "user", "content": "「你什麼時候要吃飯？」"}, {"role": "assistant", "content": "axay daali haaput meken sumay?"}]}
+{"messages": [{"role": "user", "content": "「中午呀！」"}, {"role": "assistant", "content": "daalian hann."}]}
+{"messages": [{"role": "user", "content": "「你什麼時候剪頭髮的？」"}, {"role": "assistant", "content": "isiw ka kuasayan mukusa mukato bekes?"}]}
+{"messages": [{"role": "user", "content": "「我想要買房子。」"}, {"role": "assistant", "content": "haaput mubaiw humak haki yaku."}]}
+{"messages": [{"role": "user", "content": "「我只有自己來看 Atun。」"}, {"role": "assistant", "content": "yaku talima eezaw mupuza mikita atun haé."}]}
+{"messages": [{"role": "user", "content": "「我會說噶哈巫的話。」"}, {"role": "assistant", "content": "yaku mubaza mukawat kaxabu a ahan."}]}
+{"messages": [{"role": "user", "content": "「我的母親忘記煮菜。」"}, {"role": "assistant", "content": "yaku a ina pahaihan mutalek saaken."}]}
+{"messages": [{"role": "user", "content": "「Atun 坐著吃飯。」"}, {"role": "assistant", "content": "atun ka mutuku meken sumay."}]}
+{"messages": [{"role": "user", "content": "「開始要種稻子。」"}, {"role": "assistant", "content": "pialay haaput paxuma mulasi."}]}
+{"messages": [{"role": "user", "content": "「我洗完澡了。」"}, {"role": "assistant", "content": "yaku mudawan muuput lia."}]}
+{"messages": [{"role": "user", "content": "「我喜歡看你。」"}, {"role": "assistant", "content": "yaku haaput mikita isiw."}]}
+{"messages": [{"role": "user", "content": "「我的父親喜歡吃刺蔥。」"}, {"role": "assistant", "content": "yaku a aba ka haaput meken tana haé."}]}
+{"messages": [{"role": "user", "content": "「要下雨了。」"}, {"role": "assistant", "content": "haaput mudan lia."}]}
+{"messages": [{"role": "user", "content": "「我的祖父洗澡洗好了。」"}, {"role": "assistant", "content": "yaku a apu mudawan iak lia."}]}
+{"messages": [{"role": "user", "content": "「洗完澡了。」"}, {"role": "assistant", "content": "muuput a mudawan lia."}]}
+{"messages": [{"role": "user", "content": "「我會聽噶哈巫的話了。」"}, {"role": "assistant", "content": "yaku mubaza tumala kaxabu a ahan lia."}]}
+{"messages": [{"role": "user", "content": "「這香蕉是他拿來的。」"}, {"role": "assistant", "content": "imini a beleben ka imisiw maa mupuza."}]}
+{"messages": [{"role": "user", "content": "「這在大湳拿來的。」"}, {"role": "assistant", "content": "imini ka kaidi kalikus maa mupuza."}]}
+{"messages": [{"role": "user", "content": "「我的父親走得很快。」"}, {"role": "assistant", "content": "yaku a aba muzakay maida."}]}
+{"messages": [{"role": "user", "content": "「我的祖父走很慢。」"}, {"role": "assistant", "content": "yaku a apu muzakay madiak."}]}
+{"messages": [{"role": "user", "content": "「坐很久。」"}, {"role": "assistant", "content": "mituku mades."}]}
+{"messages": [{"role": "user", "content": "「我的弟弟吃很快。」"}, {"role": "assistant", "content": "yaku a suazi meken ka maida."}]}
+{"messages": [{"role": "user", "content": "「我吃飯很慢。」"}, {"role": "assistant", "content": "yaku meken sumay ka madiak."}]}
+{"messages": [{"role": "user", "content": "「我抓魚很厲害。」"}, {"role": "assistant", "content": "yaku mukumuk alaw ka sabang."}]}
+{"messages": [{"role": "user", "content": "「我的弟弟吃很快。」"}, {"role": "assistant", "content": "yaku a suazi meken ka maida."}]}
+{"messages": [{"role": "user", "content": "「我的父親走路很快。」"}, {"role": "assistant", "content": "yaku a aba ka maida a muzakay."}]}
+{"messages": [{"role": "user", "content": "「我抓魚很厲害。」"}, {"role": "assistant", "content": "yaku ka sabang a mukumuk alaw."}]}
+{"messages": [{"role": "user", "content": "「我的祖父走路走很慢。」"}, {"role": "assistant", "content": "yaku a apu madiak a muzaky."}]}
+{"messages": [{"role": "user", "content": "「我要拿豬肉去朋友家。」"}, {"role": "assistant", "content": "yaku haaput maa taating a selem mausay yaku a batan a humak."}]}
+{"messages": [{"role": "user", "content": "「去山上放陷阱。」"}, {"role": "assistant", "content": "mukusa binayu madu tilikas."}]}
+{"messages": [{"role": "user", "content": "「Atun 看到貓正在咬老鼠。」"}, {"role": "assistant", "content": "atun ka mikita balan ngaangazip titay."}]}
+{"messages": [{"role": "user", "content": "「我問 Atun 咱們噶哈巫的話怎麼說。」"}, {"role": "assistant", "content": "yaku padudu atun nita kaxabu a ahan sasay’en a mukawas."}]}
+{"messages": [{"role": "user", "content": "「我的父親想要聽我唱歌。」"}, {"role": "assistant", "content": "yaku a aba haaput tumala yaku maatoway."}]}
+{"messages": [{"role": "user", "content": "「我看到 Kunay 正在偷別人的南瓜。」"}, {"role": "assistant", "content": "yaku mikita kunay saasakaw nisaw a bon."}]}
+{"messages": [{"role": "user", "content": "「我看到咱們的 Kunay 正在打咱們的 atun。」"}, {"role": "assistant", "content": "yaku mikita nita kunay hééhébut nita atun."}]}
+{"messages": [{"role": "user", "content": "「我看到 Atun 去溪裡抓魚。」"}, {"role": "assistant", "content": "yaku ka mikita atun mukusa axung maa alaw."}]}
+{"messages": [{"role": "user", "content": "「我聽到 Atun 成為老師了。」"}, {"role": "assistant", "content": "yaku tumala atun ka maxatakat lia."}]}
+{"messages": [{"role": "user", "content": "「（我）看到 Atun 被 Kunay 打。」"}, {"role": "assistant", "content": "mikita atun saana kunay muhébut."}]}
+{"messages": [{"role": "user", "content": "「我知道明天有雨。」"}, {"role": "assistant", "content": "yaku mubaza sawan nahaza udan."}]}
+{"messages": [{"role": "user", "content": "「我不知道你住在哪裡。」"}, {"role": "assistant", "content": "yaku mamek isiw malaleng kaidi tshay."}]}
+{"messages": [{"role": "user", "content": "「我忘記你住在哪裡。」"}, {"role": "assistant", "content": "yaku pahaihan isiw malaleng kaidi tshay."}]}
+{"messages": [{"role": "user", "content": "「我的母親說 Atun 想要娶別人家的女孩。」"}, {"role": "assistant", "content": "yaku a ina mukawas, atun ka haaput maa nisaw a akhéhén mamais."}]}
+{"messages": [{"role": "user", "content": "「我的父親說明天有雨。」"}, {"role": "assistant", "content": "yaku a aba mukawas, sawan ka nahaza udan."}]}
+{"messages": [{"role": "user", "content": "「我叫你去家裡拿衣服。」"}, {"role": "assistant", "content": "yaku ka maha isiw usa humak maa siatu."}]}
+{"messages": [{"role": "user", "content": "「我的母親叫我去洗澡。」"}, {"role": "assistant", "content": "maha yaku liaki yaku a ina, mausay mudawan."}]}
+{"messages": [{"role": "user", "content": "「你的母親正在叫你去洗澡。」"}, {"role": "assistant", "content": "kiikiliw liaki nisiw a ina, usa mudawan."}]}
+{"messages": [{"role": "user", "content": "「我問老闆這塊豬肉多少錢。」"}, {"role": "assistant", "content": "yaku padudu nita pungu imini a selem ka haima pai."}]}
+{"messages": [{"role": "user", "content": "「在十月的時候有霜。」"}, {"role": "assistant", "content": "kaidi xasep a ilas liaka nahaza xaxela."}]}
+{"messages": [{"role": "user", "content": "「我在大地震的時候，咱們的老師來看我們。」"}, {"role": "assistant", "content": "yaku kaidi mataw a malaliw haka nita a takat mupuza kiikita yami."}]}
+{"messages": [{"role": "user", "content": "「在娶妻子的時候，我的媽媽又過世了。」"}, {"role": "assistant", "content": "kaidi maa mamais, yaku a ina iu puihiat lia."}]}
+{"messages": [{"role": "user", "content": "「以前在日本時代的時候，日本人來，做路。」"}, {"role": "assistant", "content": "ohoza kaidi tanatunu, hoaho mupuza, mubuyak a daan."}]}
+{"messages": [{"role": "user", "content": "「如果沒洗手，別吃飯喔！」"}, {"role": "assistant", "content": "ini musinaw a ima ka ana meken sumay hann!"}]}
+{"messages": [{"role": "user", "content": "「我如果有很多錢，要買房子。」"}, {"role": "assistant", "content": "yaku ka nahaza dahu a pai ka haaput mubaiw a humak."}]}
+{"messages": [{"role": "user", "content": "「你如果沒有錢，不要買東西給我。」"}, {"role": "assistant", "content": "isiw kuang a pai ka ana mubaiw axaxay saanu yaku."}]}
+{"messages": [{"role": "user", "content": "「你如果還沒洗澡，別睡覺！」"}, {"role": "assistant", "content": "isiw mayaw mudawan, ana midem!"}]}
+{"messages": [{"role": "user", "content": "「我如果有錢，我要買房子。」"}, {"role": "assistant", "content": "yaku nahaza pai ka haaput mubaiw humak haki yaku."}]}
+{"messages": [{"role": "user", "content": "「我如果有時間，你們來，跟你們說話；我如果沒有時間可以休息，沒跟你們坐。」（"}, {"role": "assistant", "content": "yaku na nahaza daali ka imu mupuza ka maki imu mukawas; yaku na kuang a daali saanu meseket ka ini maki imu mutuku."}]}
+{"messages": [{"role": "user", "content": "「你要斗笠還是不要？要的話給你，你如果不要，我就丟在路上。」"}, {"role": "assistant", "content": "isiw ka haaput tabako iu nang? haaput ka baxa isiw, isiw na nang liaka yaku haaput hazing kaidi daan."}]}
+{"messages": [{"role": "user", "content": "「你如果騙我，我就不要跟你講話。」"}, {"role": "assistant", "content": "isiw na maahan yaku ka yaku nang a maki isiw mukawas."}]}
+{"messages": [{"role": "user", "content": "「我很累，所以我不想工作。」"}, {"role": "assistant", "content": "yaku tahayak azawzaw haka yaku nang a mukukusa."}]}
+{"messages": [{"role": "user", "content": "「（我）吃很多，然後變胖一些了。」"}, {"role": "assistant", "content": "meken dahu liaka baget taating lia."}]}
+{"messages": [{"role": "user", "content": "「我們小孩去賺錢了，父親很舒服。」"}, {"role": "assistant", "content": "yami akhéhén mukusa mutahan pai liaka aba mahabay."}]}
+{"messages": [{"role": "user", "content": "「你還沒洗澡，別睡覺。」"}, {"role": "assistant", "content": "isiw mayaw mudawan, ana midem."}]}
+{"messages": [{"role": "user", "content": "「我不舒服，不想去工作。」"}, {"role": "assistant", "content": "ini mahabay haki yaku, nang a mukusa mukukusa."}]}
+{"messages": [{"role": "user", "content": "「老了不好了。」"}, {"role": "assistant", "content": "hakezeng liaka hazian lia."}]}
+{"messages": [{"role": "user", "content": "「我的頭腦不好了。」"}, {"role": "assistant", "content": "hazian lia ki yaku a punu."}]}
+{"messages": [{"role": "user", "content": "「現在下雨了，我不想去看田。」"}, {"role": "assistant", "content": "ohoni mudan liaka yaku nang a mukusa mikita umama."}]}
+{"messages": [{"role": "user", "content": "「我很累所以我不想工作。」"}, {"role": "assistant", "content": "yaku tahayak azawzaw haka yaku nang a mukukusa."}]}
+{"messages": [{"role": "user", "content": "「大地震，房子倒了。」"}, {"role": "assistant", "content": "mataw a mulaliw liaka mauit liaki humak."}]}
+{"messages": [{"role": "user", "content": "「這個人很多錢，但心情不舒服。」"}, {"role": "assistant", "content": "imini a saw dahu a pai, kulaka ini mahabay a hinis."}]}
+{"messages": [{"role": "user", "content": "「你們想要聽噶哈巫話，但噶哈巫的話不好聽。」"}, {"role": "assistant", "content": "imu haaput tumala Kaxabu a ahan, kulaka Kaxabu a ahan ka sazian a tumala."}]}
+{"messages": [{"role": "user", "content": "「樹不長，竹子長，但是竹子一點點而已，而樹大一些。」"}, {"role": "assistant", "content": "kahuy ka ini halupas, patakan ka halupas, kulaka patakan ka taating eezaw, kahuy ka mataw taating."}]}
+{"messages": [{"role": "user", "content": "「想要買豬肉，但是沒帶錢。」"}, {"role": "assistant", "content": "haaput mubaiw selem kula, ini masu pai."}]}
+{"messages": [{"role": "user", "content": "「想要吃飯，但我的肚子很痛，所以不要吃飯了。」"}, {"role": "assistant", "content": "haaput meken sumay kula, yaku a tian ka asikit azawzaw liaka nang a meken lia."}]}
+{"messages": [{"role": "user", "content": "「你們喜歡來我的家看我，但我身體不好。」"}, {"role": "assistant", "content": "imu ka haaput mupuza yaku a humak mikita yaku, kulaka yaku hazian a buxu."}]}
+{"messages": [{"role": "user", "content": "「我有兩個小孩，他有三個小孩。」"}, {"role": "assistant", "content": "yaku ka nahaza dusa a akhéhén, imisiw ka tuu a akhéhén."}]}
+{"messages": [{"role": "user", "content": "「我住在守城，他住在牛眠。」"}, {"role": "assistant", "content": "yaku ka malaleng kaidi sianglukus, imisiw ka malaleng kaidi baisia."}]}
+{"messages": [{"role": "user", "content": "「我住在守城，他住在牛眠。」"}, {"role": "assistant", "content": "yaku ka malaleng kaidi sianglukus, iu imisiw ka malaleng kaidi baisia."}]}
+{"messages": [{"role": "user", "content": "「我的父親喜歡吃刺蔥，而我的母親喜歡吃青苔。」"}, {"role": "assistant", "content": "yaku a aba ka haaput meken tana, iu yaku a ina ka haaput meken hapus."}]}
+{"messages": [{"role": "user", "content": "「Atun 的父親站著吃飯，而 Atun 坐著吃飯。」"}, {"role": "assistant", "content": "atun a aba ka kizi meken sumay, iu atun ka mituku meken sumay."}]}
+{"messages": [{"role": "user", "content": "「我的母親也死了。」"}, {"role": "assistant", "content": "yaku a ina iu puihiat lia."}]}
+{"messages": [{"role": "user", "content": "「我知道明天也有雨。」"}, {"role": "assistant", "content": "yaku mubaza sawan iu nahaza udan."}]}
+{"messages": [{"role": "user", "content": "「Atun 也一樣站著吃飯。」"}, {"role": "assistant", "content": "atun iu maaisiay kizi meken sumay."}]}
+{"messages": [{"role": "user", "content": "「Atun 有可以工作，而 Kunay 也有可以工作。」"}, {"role": "assistant", "content": "atun nahaza saanu mukukusa, iu kunay iu nahaza saanu mukukusa."}]}
+{"messages": [{"role": "user", "content": "「Atun 去山上放陷阱，而 Kunay 也去山上放陷阱。」"}, {"role": "assistant", "content": "atun mukusa binayu madu tilikas, iu kunay iu mukusa binayu madu tilikas."}]}
+{"messages": [{"role": "user", "content": "「我和哥哥去山上。」"}, {"role": "assistant", "content": "yaku iu mama mukusa binayu."}]}
+{"messages": [{"role": "user", "content": "「我跟哥哥去山上。」"}, {"role": "assistant", "content": "yaku maki mama mukusa binayu."}]}
